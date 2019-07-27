@@ -19,8 +19,7 @@ The prefixes *te-* and *be-* and their usage have been considered in the followi
 On the aspectual uses of the prefix be- in Lithuanian // Baltic Linguistics Vol. 2 (2011), pp. 37–78.
 Notes on the Lithuanian restrictive // Baltic Linguistics Vol. 1 (2010), pp. 9—49.
 
-You can also have a look at [this following handout]:
-(https://inslav.ru/images/stories/people/arkadiev/Arkadiev_2012_te_be_Helsinki.pdf)
+You can also have a look at [this following handout](https://inslav.ru/images/stories/people/arkadiev/Arkadiev_2012_te_be_Helsinki.pdf).
 
 # How to use this?
 
