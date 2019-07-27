@@ -25,7 +25,9 @@ You can also have a look at [this handout](https://inslav.ru/images/stories/peop
 The program takes your UD-style formatted .conllu files (10 columns per non-metadata line) and looks for problematic lexemes. After checking their non-prefixed based verbs, the correct lemma is written in the output file.
 
 Just print this in your command line (don't forget about the dazninis.utf8.txt file, as it is the Lithuanian dictionary used for comparison of lemmas):
-`python input_file output_file`
 
+    `python check_lt_prefixed_lemmas.py input_file output_file`
 
 ***NB:*** right now there are probably too many commented lines; this is due to the fact that annotation errors are possible, and it's probably not so good to rely on the features 'Neg' and 'Refl' and their values. I have already changed this for negation; for reflexivity the alternative variants are currently commented.
+
+I will probably change this, as I have just found the example with the wrong feature 'Refl=Yes' for the verb *nesiūlyti* which is just the negated verb *siūlyti*, so obviously the annotation should not be trusted too much.
