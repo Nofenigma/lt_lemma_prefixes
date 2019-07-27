@@ -19,12 +19,15 @@ The prefixes *te-* and *be-* and their usage have been considered in the followi
 On the aspectual uses of the prefix be- in Lithuanian // Baltic Linguistics Vol. 2 (2011), pp. 37–78.
 Notes on the Lithuanian restrictive // Baltic Linguistics Vol. 1 (2010), pp. 9—49.
 
-See also the following handout:
-https://inslav.ru/images/stories/people/arkadiev/Arkadiev_2012_te_be_Helsinki.pdf
+You can also have a look at [this following handout]:
+(https://inslav.ru/images/stories/people/arkadiev/Arkadiev_2012_te_be_Helsinki.pdf)
 
 # How to use this?
 
 The program takes your UD-style formatted .conllu files (10 columns per non-metadata line) and looks for problematic lexemes. After checking their non-prefixed based verbs, the correct lemma is written in the output file.
 
 Just print this in your command line (don't forget about the dazninis.utf8.txt file, as it is the Lithuanian dictionary used for comparison of lemmas):
-***python input_file output_file***
+`python input_file output_file`
+
+
+***NB:*** right now there are probably too many commented lines; this is due to the fact that annotation errors are possible, and it's probably not so good to rely on the features 'Neg' and 'Refl' and their values. I have already changed this for negation; for reflexivity the alternative variants are currently commented.
