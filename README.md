@@ -26,7 +26,7 @@ The program takes your UD-style formatted .conllu files (10 columns per non-meta
 
 Just print this in your command line (don't forget about the dazninis.utf8.txt file, as it is the Lithuanian dictionary used for comparison of lemmas):
 
-    `python check_lt_prefixed_lemmas.py input_file output_file`
+    python check_lt_prefixed_lemmas.py input_file output_file
 
 ***NB:*** right now there are probably too many commented lines; this is due to the fact that annotation errors are possible, and it's probably not so good to rely on the features 'Neg' and 'Refl' and their values. I have already changed this for negation; for reflexivity the alternative variants are currently commented.
 
