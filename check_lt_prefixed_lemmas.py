@@ -25,7 +25,7 @@ with open (file, 'r', encoding='utf-8') as file:
                 lemma = line[2]
                 if line[3] == 'VERB':
                     if lemma.startswith('nebe'): #checks for negated continuative NEBE-
-                        print(line)
+                        #print(line)
                         if lemma.startswith('nebesi'): #checks if the verb if reflexive
                             if 'Reflex=Yes' in line[5]:
                                 if lemma[6:] + 's' in lt_lemmas:

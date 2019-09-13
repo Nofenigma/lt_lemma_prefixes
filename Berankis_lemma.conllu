@@ -1,0 +1,1972 @@
+# sent_id = 0
+# text = BERANKIS
+1	BERANKIS	berankis	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+
+# sent_id = 1
+# text = Skiriu Gražinai B.
+1	Skiriu	skirti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=1	_	_	_	V=praes,1p,sg,indic
+2	Gražinai	Gražina	PROPN	_	Gender=Fem|Number=Sing|Case=Dat	_	_	_	S, propn,f=sg,dat
+3	B	B	_	_	_	_	_	_	=
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 2
+# text = Tame krašte žiema trukdavo aštuonis mėnesius.
+1	Tame	tas	PRON	_	Gender=Masc|Number=Sing|Case=Loc|Definite=Ind	_	_	_	PRO=m,sg,loc,indef
+2	krašte	kraštas	NOUN	_	Gender=Masc|Number=Sing|Case=Loc	_	_	_	S,m=sg,loc
+3	žiema	žiema	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+4	trukdavo	trukti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+5	aštuonis	aštuoni	NUM	_	Gender=Masc|Case=Acc|NumType=Card	_	_	_	NUM=card,m,acc
+6	mėnesius	mėnuo	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 3
+# text = Kitiems metų laikams likdavo keturi.
+1	Kitiems	kitas	PRON	_	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind	_	_	_	PRO=m,pl,dat,indef
+2	metų	metai	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+3	laikams	laikas	NOUN	_	Gender=Masc|Number=Plur|Case=Dat	_	_	_	S,m=pl,dat
+4	likdavo	likti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+5	keturi	keturi	NUM	_	Gender=Masc|Case=Nom|NumType=Card	_	_	_	NUM=card,m,nom
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 4
+# text = Tačiau upė niekad neužšaldavo iki galo.
+1	Tačiau	tačiau	SCONJ	_	_	_	_	_	CONJ=
+2	upė	upė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+3	niekad	niekad	ADV	_	_	_	_	_	ADV=
+4	neužšaldavo	užšalti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,neg,indic
+5	iki	iki	ADP	_	_	_	_	_	PR=
+6	galo	galas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 5
+# text = Jos tėkmė nelyginant gyva turėjo alsuoti oru ir regėti pasaulį.
+1	Jos	jis	PRON	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=f,sg,gen,indef
+2	tėkmė	tėkmė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+3	nelyginant	nelyginant	SCONJ	_	_	_	_	_	CONJ=
+4	gyva	gyvas	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+5	turėjo	turėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+6	alsuoti	alsuoti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+7	oru	oras	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+8	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+9	regėti	regėti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+10	pasaulį	pasaulis	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 6
+# text = Ji nepasidavė jokiems speigams, buvo nenugalima tarsi bendra visą prie jos įkurdintų žmonių gyvenimo tėkmė.
+1	Ji	jis	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=f,sg,nom,indef
+2	nepasidavė	siduotis	VERB	_	Number=Sing|Polarity=Neg|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,neg,indic
+3	jokiems	joks	PRON	_	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind	_	_	_	PRO=m,pl,dat,indef
+4	speigams	speigas	NOUN	_	Gender=Masc|Number=Plur|Case=Dat	_	_	_	S,m=pl,dat
+5	,	,	PUNCT	_	_	_	_	_	_
+6	buvo	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+7	nenugalima	nugalėti	VERB	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind|Polarity=Neg|Voice=Pass|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,f,pass,neg,indef,nom
+8	tarsi	tarsi	ADV	_	_	_	_	_	ADV=
+9	bendra	bendras	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+10	visų	visas	DET	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+11	prie	prie	ADP	_	_	_	_	_	PR=
+12	jos	jis	PRON	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=f,sg,gen,indef
+13	įkurdintų	įkurdinti	VERB	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praet,pl,m,pass,indef,gen
+14	žmonių	žmogus	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+15	gyvenimo	gyvenimas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+16	tėkmė	tėkmė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+17	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 7
+# text = Galėjo pražūti dešimtys, šimtai, tūkstančiai.
+1	Galėjo	galėti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+2	pražūti	pražūti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+3	dešimtys	dešimt	NUM	_	Gender=Fem|Number=Plur|Case=Nom|NumType=Card	_	_	_	NUM=card,f,pl,nom
+4	,	,	PUNCT	_	_	_	_	_	_
+5	šimtai	šimtas	NUM	_	Gender=Masc|Number=Plur|Case=Nom|NumType=Card	_	_	_	NUM=card,m,pl,nom
+6	,	,	PUNCT	_	_	_	_	_	_
+7	tūkstančiai	tūkstantis	NUM	_	Gender=Masc|Number=Plur|Case=Nom|NumType=Card	_	_	_	NUM=card,m,pl,nom
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 8
+# text = Tačiau jokia jėga negalėjo prapuldyti visų ligi vieno.
+1	Tačiau	tačiau	SCONJ	_	_	_	_	_	CONJ=
+2	jokia	joks	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=f,sg,nom,indef
+3	jėga	jėga	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+4	negalėjo	galėti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+5	prapuldyti	prapuldyti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+6	visų	visas	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+7	ligi	ligi	ADP	_	_	_	_	_	PR=
+8	vieno	vienas	NUM	_	Gender=Masc|Number=Sing|Case=Gen|NumType=Card	_	_	_	NUM=card,m,sg,gen
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 9
+# text = Upe plaukė vienišas netašytų rąstgalių plaustas.
+1	Upe	upė	NOUN	_	Gender=Fem|Number=Sing|Case=Ins	_	_	_	S,f=sg,ins
+2	plaukė	plaukyti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+3	vienišas	vienišas	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=m,sg,nom,indef
+4	netašytų	netašytas	ADJ	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	A=m,pl,gen,indef
+5	rąstgalių	rąstgalys	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+6	plaustas	plaustas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 10
+# text = Jis yrėsi pirmyn pamažu, lyg būtų mirtinai pavargęs.
+1	Jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+2	yrėsi	irtis	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+3	pirmyn	pirmiau	ADV	_	_	_	_	_	ADV=
+4	pamažu	pamažu	ADV	_	_	_	_	_	ADV=
+5	,	,	PUNCT	_	_	_	_	_	_
+6	lyg	lyg	SCONJ	_	_	_	_	_	CONJ=
+7	būtų	būti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+8	mirtinai	mirtinai	ADV	_	_	_	_	_	ADV=
+9	pavargęs	pavargti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,voc
+10	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 11
+# text = Šalčio genami žvėrys stabtelėdavo pakrantėje ir nulydėdavo jį bugščiais žvilgsniais.
+1	Šalčio	šaltis	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+2	genami	ginti	VERB	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,pl,m,pass,indef,nom
+3	žvėrys	žvėris	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+4	stabtelėdavo	stabtelėti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,pl,indic
+5	pakrantėje	pakrantė	NOUN	_	Gender=Fem|Number=Sing|Case=Loc	_	_	_	S,f=sg,loc
+6	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+7	nulydėdavo	nulydėti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,pl,indic
+8	jį	jis	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+9	bugščiais	bugštus	ADJ	_	Gender=Masc|Number=Plur|Case=Ins|Definite=Ind	_	_	_	A=m,pl,ins,indef
+10	žvilgsniais	žvilgsnis	NOUN	_	Gender=Masc|Number=Plur|Case=Ins	_	_	_	S,m=pl,ins
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 12
+# text = Tačiau plaustui jie nerūpėjo, jis ieškojo žmonių.
+1	Tačiau	tačiau	SCONJ	_	_	_	_	_	CONJ=
+2	plaustui	plaustas	NOUN	_	Gender=Masc|Number=Sing|Case=Dat	_	_	_	S,m=sg,dat
+3	jie	jis	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+4	nerūpėjo	rūpėti	VERB	_	Number=Plur|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,neg,indic
+5	,	,	PUNCT	_	_	_	_	_	_
+6	jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+7	ieškojo	ieškoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+8	žmonių	žmogus	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 13
+# text = O žmonių vis nebuvo ir nebuvo.
+1	O	o	SCONJ	_	_	_	_	_	CONJ=
+2	žmonių	žmogus	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+3	vis	vis	ADV	_	_	_	_	_	ADV=
+4	nebuvo	būti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+5	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+6	nebuvo	būti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 14
+# text = Plaustas buvo tuščias.
+1	Plaustas	plaustas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+2	buvo	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+3	tuščias	tuščias	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=m,sg,nom,indef
+4	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 15
+# text = Tik labai gerai įsižiūrėjęs būtum pamatęs ant vidurinio jo rąsto kreivą balkšvą dėmę – gal suledėjusi žvėrelį, gal ženklą, o gal neryškų miražą, neaprėpiamų sniegynų atspindį.
+1	Tik	tik	ADV	_	_	_	_	_	ADV=
+2	labai	labai	ADV	_	_	_	_	_	ADV=
+3	gerai	gerai	ADV	_	_	_	_	_	ADV=
+4	įsižiūrėjęs	įsižiūrėti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Reflex=Yes|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V,refl=partcp,praet,sg,m,act,indef,voc
+5	būtum	būti	VERB	_	Number=Sing|Mood=Cnd|Person=2	_	_	_	V=2p,sg,cond
+6	pamatęs	pamatyti	VERB	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,nom
+7	ant	ant	ADP	_	_	_	_	_	PR=
+8	vidurinio	vidurinis	ADJ	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=m,sg,gen,indef
+9	jo	jis	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+10	rąsto	rąstas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+11	kreivą	kreivas	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+12	balkšvą	balkšvas	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+13	dėmę	dėmė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+14	–	–	SYM	_	_	_	_	_	_
+15	gal	gal	PART	_	_	_	_	_	PART=
+16	suledėjusi	suledėti	VERB	_	Gender=Fem|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,f,act,indef,voc
+17	žvėrelį	žvėrelis	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+18	,	,	PUNCT	_	_	_	_	_	_
+19	gal	gal	PART	_	_	_	_	_	PART=
+20	ženklą	ženklas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+21	,	,	PUNCT	_	_	_	_	_	_
+22	o	o	SCONJ	_	_	_	_	_	CONJ=
+23	gal	gal	PART	_	_	_	_	_	PART=
+24	neryškų	neryškus	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+25	miražą	miražas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+26	,	,	PUNCT	_	_	_	_	_	_
+27	neaprėpiamų	neaprėpiamas	ADJ	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	A=m,pl,gen,indef
+28	sniegynų	sniegynas	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+29	atspindį	atspindys	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 16
+# text = Tasai noras užplūdo staiga.
+1	Tasai	tas	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Def	_	_	_	PRO=m,sg,nom,def
+2	noras	noras	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+3	užplūdo	užplūsti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+4	staiga	staiga	ADV	_	_	_	_	_	ADV=
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 17
+# text = Perėmė ne tik dvasią, bet ir visą kūną tarsi liga, ilgai slapčia tūnojusi viduje ir laukusi savo triumfo valandos.
+1	Perėmė	perimti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+2	ne tik	ne tik	SCONJ	_	_	_	_	_	CONJ=
+3	dvasią	dvasia	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+4	,	,	PUNCT	_	_	_	_	_	_
+5	bet ir	bet ir	PRON	_	Definite=Ind	_	_	_	PRO=indef
+6	visą	visas	PRON	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=f,sg,acc,indef
+7	kūną	kūnas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+8	tarsi	tarsi	ADV	_	_	_	_	_	ADV=
+9	liga	liga	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+10	,	,	PUNCT	_	_	_	_	_	_
+11	ilgai	ilgai	ADV	_	_	_	_	_	ADV=
+12	slapčia	slapčia	ADV	_	_	_	_	_	ADV=
+13	tūnojusi	tūnoti	VERB	_	Gender=Fem|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,f,act,indef,voc
+14	viduje	vidus	NOUN	_	Gender=Masc|Number=Sing|Case=Loc	_	_	_	S,m=sg,loc
+15	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+16	laukusi	laukti	VERB	_	Gender=Fem|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,f,act,indef,voc
+17	savo	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+18	triumfo	triumfas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+19	valandos	valanda	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+20	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 18
+# text = Vytautas Berankis svarstė, kodėl kaip tik dabar.
+1	Vytautas	Vytautas	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+2	Berankis	Berankis	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+3	svarstė	svarstyti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+4	,	,	PUNCT	_	_	_	_	_	_
+5	kodėl	kodėl	ADV	_	_	_	_	_	ADV=
+6	kaip	kaip	SCONJ	_	_	_	_	_	CONJ=
+7	tik	tik	ADV	_	_	_	_	_	ADV=
+8	dabar	dabar	ADV	_	_	_	_	_	ADV=
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 19
+# text = Galbūt kalta buvo pensija, marios laisvo laiko ir salsva tuštuma, per keletą savaičių apgaubusi gyvenimą.
+1	Galbūt	galbūt	PART	_	_	_	_	_	PART=
+2	kalta	kaltas	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+3	buvo	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+4	pensija	pensija	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+5	,	,	PUNCT	_	_	_	_	_	_
+6	marios	marios	NOUN	_	Gender=Fem|Number=Plur|Case=Nom	_	_	_	S,f=pl,nom
+7	laisvo	laisvas	ADJ	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=m,sg,gen,indef
+8	laiko	laikas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+9	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+10	salsva	salsvas	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+11	tuštuma	tuštuma	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+12	,	,	PUNCT	_	_	_	_	_	_
+13	per	per	ADP	_	_	_	_	_	PR=
+14	keletą	keletas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+15	savaičių	savaitė	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+16	apgaubusi	apgaubti	VERB	_	Gender=Fem|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,f,act,indef,voc
+17	gyvenimą	gyvenimas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+18	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 20
+# text = Abidvi dukterys rūpinosi išsvajotais atskirais butais, o nuėjęs parymoti prie Onos kapo, nerasdavo nė jai ką pasakyti, nemokėjo nieko paaiškinti, apibūdinti to gniuždančio, nenumaldomo troškimo.
+1	Abidvi	abu	NUM	_	Gender=Fem|Case=Nom|NumType=Card	_	_	_	NUM=card,f,nom
+2	dukterys	duktė	NOUN	_	Gender=Fem|Number=Plur|Case=Nom	_	_	_	S,f=pl,nom
+3	rūpinosi	rūpintis	VERB	_	Number=Plur|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,pl,indic
+4	išsvajotais	išsvajoti	VERB	_	Gender=Masc|Number=Plur|Case=Ins|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,m,pass,indef,ins
+5	atskirais	atskiras	ADJ	_	Gender=Masc|Number=Plur|Case=Ins|Definite=Ind	_	_	_	A=m,pl,ins,indef
+6	butais	butas	NOUN	_	Gender=Masc|Number=Plur|Case=Ins	_	_	_	S,m=pl,ins
+7	,	,	PUNCT	_	_	_	_	_	_
+8	o	o	SCONJ	_	_	_	_	_	CONJ=
+9	nuėjęs	nueiti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,voc
+10	parymoti	parymoti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+11	prie	prie	ADP	_	_	_	_	_	PR=
+12	Onos	Ona	PROPN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S, propn,f=sg,gen
+13	kapo	kapas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+14	,	,	PUNCT	_	_	_	_	_	_
+15	nerasdavo	rasti	VERB	_	Number=Plur|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,pl,neg,indic
+16	nė	nė	PART	_	_	_	_	_	PART=
+17	jai	jis	PRON	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=f,sg,dat,indef
+18	ką	kas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+19	pasakyti	pasakyti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+20	,	,	PUNCT	_	_	_	_	_	_
+21	nemokėjo	mokėti	VERB	_	Number=Plur|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,neg,indic
+22	nieko	niekas	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+23	paaiškinti	paaiškinti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+24	,	,	PUNCT	_	_	_	_	_	_
+25	apibūdinti	apibūdinti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+26	to	tas	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+27	gniuždančio	gniuždyti	VERB	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,m,act,indef,gen
+28	,	,	PUNCT	_	_	_	_	_	_
+29	nenumaldomo	numaldyti	VERB	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind|Polarity=Neg|Voice=Pass|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,m,pass,neg,indef,gen
+30	troškimo	troškimas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 21
+# text = Rūkydamas prie ketinės kapo tvorelės, jis laukdavo ženklo, pamėkliško Onos atsakymo.
+1	Rūkydamas	rūkyti	VERB	_	Gender=Masc|Number=Sing|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,sg,m
+2	prie	prie	ADP	_	_	_	_	_	PR=
+3	ketinės	ketinis	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=f,sg,gen,indef
+4	kapo	kapas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+5	tvorelės	tvorelė	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+6	,	,	PUNCT	_	_	_	_	_	_
+7	jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+8	laukdavo	laukti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+9	ženklo	ženklas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+10	,	,	PUNCT	_	_	_	_	_	_
+11	pamėkliško	pamėkliškas	ADJ	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=m,sg,gen,indef
+12	Onos	Ona	PROPN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S, propn,f=sg,gen
+13	atsakymo	atsakymas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+14	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 22
+# text = Bet joks ženklas nesirodė.
+1	Bet	bet	SCONJ	_	_	_	_	_	CONJ=
+2	joks	joks	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+3	ženklas	ženklas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+4	nesirodė	rodytis	VERB	_	Number=Sing|Polarity=Neg|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,neg,indic
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 23
+# text = Mirusieji linkę tylėti, jie nekalba net sapnuose.
+1	Mirusieji	mirti	VERB	_	Gender=Masc|Number=Plur|Case=Voc|Definite=Def|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,m,act,def,voc
+2	linkę	linkti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+3	tylėti	tylėti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+4	,	,	PUNCT	_	_	_	_	_	_
+5	jie	jis	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+6	nekalba	kalbėti	VERB	_	Number=Plur|Polarity=Neg|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,pl,neg,indic
+7	net	net	PART	_	_	_	_	_	PART=
+8	sapnuose	sapnas	NOUN	_	Gender=Masc|Number=Plur|Case=Loc	_	_	_	S,m=pl,loc
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 24
+# text = Jau aštuoneri metai kas savaitė rašydavo jai laišką, šeštadienio rytą garsiai skaitydavo jį tuščioje svetainėje.
+1	Jau	jau	ADV	_	_	_	_	_	ADV=
+2	aštuoneri	aštuoni	NUM	_	Gender=Masc|Case=Nom|NumType=Card	_	_	_	NUM=card,m,nom
+3	metai	metai	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+4	kas	kasti	VERB	_	Number=Plur|Mood=Ind|Tense=Fut|Person=3	_	_	_	V=fut,3p,pl,indic
+5	savaitė	savaitė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+6	rašydavo	rašyti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+7	jai	jis	PRON	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=f,sg,dat,indef
+8	laišką	laiškas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+9	,	,	PUNCT	_	_	_	_	_	_
+10	šeštadienio	šeštadienis	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+11	rytą	rytas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+12	garsiai	garsiai	ADV	_	_	_	_	_	ADV=
+13	skaitydavo	skaityti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+14	jį	jis	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+15	tuščioje	tuščias	ADJ	_	Gender=Fem|Number=Sing|Case=Loc|Definite=Ind	_	_	_	A=f,sg,loc,indef
+16	svetainėje	svetainė	NOUN	_	Gender=Fem|Number=Sing|Case=Loc	_	_	_	S,f=sg,loc
+17	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 25
+# text = Rašė apie viską: alyvų kvapą, kumpą kaimyno nosį, debesų kontūrus, savo šunį senbernarą, kurio visą gyvenimą norėjo, bet niekad neturėjo, tik įsivaizdavo.
+1	Rašė	Rašė	PROPN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S, propn,f=sg,nom
+2	apie	apie	ADP	_	_	_	_	_	PR=
+3	viską	viskas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+4	:	:	SYM	_	_	_	_	_	_
+5	alyvų	alyva	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+6	kvapą	kvapas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+7	,	,	PUNCT	_	_	_	_	_	_
+8	kumpą	kumpas	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+9	kaimyno	kaimynas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+10	nosį	nosis	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+11	,	,	PUNCT	_	_	_	_	_	_
+12	debesų	debesis	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+13	kontūrus	kontūras	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+14	,	,	PUNCT	_	_	_	_	_	_
+15	savo	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+16	šunį	šuo	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+17	senbernarą	senbernaras	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+18	,	,	PUNCT	_	_	_	_	_	_
+19	kurio	kuris	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+20	visą	visas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+21	gyvenimą	gyvenimas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+22	norėjo	norėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+23	,	,	PUNCT	_	_	_	_	_	_
+24	bet	bet	SCONJ	_	_	_	_	_	CONJ=
+25	niekad	niekad	ADV	_	_	_	_	_	ADV=
+26	neturėjo	turėti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+27	,	,	PUNCT	_	_	_	_	_	_
+28	tik	tik	ADV	_	_	_	_	_	ADV=
+29	įsivaizdavo	įsivaizduoti	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 26
+# text = Pasakodavo Onai viską, kaip buvo pratęs, nors kartais pagalvodavo, kad tuose laiškuose surašo kur kas daugiau nei išpažintų jai gyvai.
+1	Pasakodavo	pasakoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+2	Onai	Ona	PROPN	_	Gender=Fem|Number=Sing|Case=Dat	_	_	_	S, propn,f=sg,dat
+3	viską	viskas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+4	,	,	PUNCT	_	_	_	_	_	_
+5	kaip	kaip	SCONJ	_	_	_	_	_	CONJ=
+6	buvo	būti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+7	pratęs	pratęsti	VERB	_	Number=Sing|Mood=Ind|Tense=Fut|Person=3	_	_	_	V=fut,3p,sg,indic
+8	,	,	PUNCT	_	_	_	_	_	_
+9	nors	nors	SCONJ	_	_	_	_	_	CONJ=
+10	kartais	kartais	ADV	_	_	_	_	_	ADV=
+11	pagalvodavo	pagalvoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+12	,	,	PUNCT	_	_	_	_	_	_
+13	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+14	tuose	tas	PRON	_	Gender=Masc|Number=Plur|Case=Loc|Definite=Ind	_	_	_	PRO=m,pl,loc,indef
+15	laiškuose	laiškas	NOUN	_	Gender=Masc|Number=Plur|Case=Loc	_	_	_	S,m=pl,loc
+16	surašo	surašyti	VERB	_	Number=Plur|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,pl,indic
+17	kur kas	kur kas	ADV	_	_	_	_	_	ADV=
+18	daugiau	daug	ADV	_	Degree=Comp	_	_	_	ADV=comp
+19	nei	nei	SCONJ	_	_	_	_	_	CONJ=
+20	išpažintų	išpažinti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+21	jai	jis	PRON	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=f,sg,dat,indef
+22	gyvai	gyvai	ADV	_	_	_	_	_	ADV=
+23	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 27
+# text = Atverdavo jai savo liūdesį ir silpnumą, gyvai jų niekad nebūtų išdavęs.
+1	Atverdavo	atverti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+2	jai	jis	PRON	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=f,sg,dat,indef
+3	savo	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+4	liūdesį	liūdesys	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+5	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+6	silpnumą	silpnumas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+7	,	,	PUNCT	_	_	_	_	_	_
+8	gyvai	gyvai	ADV	_	_	_	_	_	ADV=
+9	jų	jis	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+10	niekad	niekad	ADV	_	_	_	_	_	ADV=
+11	nebūtų	būti	VERB	_	Number=Sing|Polarity=Neg|Mood=Cnd|Person=3	_	_	_	V=3p,sg,neg,cond
+12	išdavęs	išduoti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,voc
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 28
+# text = Nesidrovėdamas atskleisdavo jai savo keistybes ir mažytes manijas: kad visą gyvenimą paniškai bijojo žuvų, kad skaito giminių laiškus tik tualete, kad šventai tiki, jog kaimyno katine įsikūnijusi vaikystės draugo Martyno siela.
+1	Nesidrovėdamas	drovėtis	VERB	_	Gender=Masc|Number=Sing|Polarity=Neg|Reflex=Yes|VerbForm=part|Aspect=Conv	_	_	_	V,refl=partcp,ger,ssubj,sg,m,neg
+2	atskleisdavo	atskleisti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+3	jai	jis	PRON	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=f,sg,dat,indef
+4	savo	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+5	keistybes	keistybė	NOUN	_	Gender=Fem|Number=Plur|Case=Acc	_	_	_	S,f=pl,acc
+6	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+7	mažytes	mažytė	NOUN	_	Gender=Fem|Number=Plur|Case=Acc	_	_	_	S,f=pl,acc
+8	manijas	manija	NOUN	_	Gender=Fem|Number=Plur|Case=Acc	_	_	_	S,f=pl,acc
+9	:	:	SYM	_	_	_	_	_	_
+10	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+11	visą	visas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+12	gyvenimą	gyvenimas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+13	paniškai	paniškai	ADV	_	_	_	_	_	ADV=
+14	bijojo	bijoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+15	žuvų	žuvis	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+16	,	,	PUNCT	_	_	_	_	_	_
+17	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+18	skaito	skaityti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+19	giminių	giminė	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+20	laiškus	laiškas	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+21	tik	tik	SCONJ	_	_	_	_	_	CONJ=
+22	tualete	tualetas	NOUN	_	Gender=Masc|Number=Sing|Case=Loc	_	_	_	S,m=sg,loc
+23	,	,	PUNCT	_	_	_	_	_	_
+24	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+25	šventai	šventai	ADV	_	_	_	_	_	ADV=
+26	tiki	tikėti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+27	,	,	PUNCT	_	_	_	_	_	_
+28	jog	jog	SCONJ	_	_	_	_	_	CONJ=
+29	kaimyno	kaimynas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+30	katine	katinas	NOUN	_	Gender=Masc|Number=Sing|Case=Loc	_	_	_	S,m=sg,loc
+31	įsikūnijusi	įsikūnyti	VERB	_	Gender=Fem|Number=Sing|Case=Voc|Definite=Ind|Reflex=Yes|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V,refl=partcp,praet,sg,f,act,indef,voc
+32	vaikystės	vaikystė	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+33	draugo	draugas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+34	Martyno	Martynas	PROPN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S, propn,m=sg,gen
+35	siela	siela	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+36	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 29
+# text = Neslėpė netgi to, kad dusyk buvo jai neištikimas.
+1	Neslėpė	slėpti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+2	netgi	netgi	PART	_	_	_	_	_	PART=
+3	to	tas	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+4	,	,	PUNCT	_	_	_	_	_	_
+5	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+6	dusyk	dusyk	ADV	_	_	_	_	_	ADV=
+7	buvo	būti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+8	jai	jis	PRON	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=f,sg,dat,indef
+9	neištikimas	neištikimas	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=m,sg,nom,indef
+10	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 30
+# text = Laiškuose atskleisdavo daug daugiau savęs nei galėjo atskleisti anksčiau, beveik patikėjo, kad gali išpasakoti juose visui viską.
+1	Laiškuose	laiškas	NOUN	_	Gender=Masc|Number=Plur|Case=Loc	_	_	_	S,m=pl,loc
+2	atskleisdavo	atskleisti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+3	daug	daug	ADV	_	_	_	_	_	ADV=
+4	daugiau	daug	ADV	_	Degree=Comp	_	_	_	ADV=comp
+5	savęs	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+6	nei	nei	PART	_	_	_	_	_	PART=
+7	galėjo	galėti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+8	atskleisti	atskleisti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+9	anksčiau	anksti	ADV	_	Degree=Comp	_	_	_	ADV=comp
+10	,	,	PUNCT	_	_	_	_	_	_
+11	beveik	beveik	ADV	_	_	_	_	_	ADV=
+12	patikėjo	patikėti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+13	,	,	PUNCT	_	_	_	_	_	_
+14	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+15	gali	galėti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+16	išpasakoti	išpasakoti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+17	juose	jis	PRON	_	Gender=Masc|Number=Plur|Case=Loc|Definite=Ind	_	_	_	PRO=m,pl,loc,indef
+18	visui	visui	_	_	_	_	_	_	=
+19	viską	viskas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+20	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 31
+# text = Tačiau niekad neužmiršo, kad taip nėra.
+1	Tačiau	tačiau	SCONJ	_	_	_	_	_	CONJ=
+2	niekad	niekad	ADV	_	_	_	_	_	ADV=
+3	neužmiršo	užmiršti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+4	,	,	PUNCT	_	_	_	_	_	_
+5	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+6	taip	taip	ADV	_	_	_	_	_	ADV=
+7	nėra	būti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,neg,indic
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 32
+# text = Niekaip nekilo ranka parašyti galbūt apie patį svarbiausią dalyką, tą dingusį ketverių metų tarpą.
+1	Niekaip	niekaip	ADV	_	_	_	_	_	ADV=
+2	nekilo	kilti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+3	ranka	ranka	NOUN	_	Gender=Fem|Number=Sing|Case=Ins	_	_	_	S,f=sg,ins
+4	parašyti	parašyti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+5	galbūt	galbūt	PART	_	_	_	_	_	PART=
+6	apie	apie	ADP	_	_	_	_	_	PR=
+7	patį	pats	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+8	svarbiausią	svarbus	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind|Degree=Sup	_	_	_	A=super,m,sg,acc,indef
+9	dalyką	dalykas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+10	,	,	PUNCT	_	_	_	_	_	_
+11	tą	tas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+12	dingusį	dingti	VERB	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,acc
+13	ketverių	keturi	NUM	_	Gender=Masc|Case=Gen|NumType=Card	_	_	_	NUM=card,m,gen
+14	metų	metai	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+15	tarpą	tarpas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 33
+# text = Apie jį niekad ir nekalbėdavo – nei su ja, nei su kuo kitu.
+1	Apie	apie	ADP	_	_	_	_	_	PR=
+2	jį	jis	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+3	niekad	niekad	ADV	_	_	_	_	_	ADV=
+4	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+5	nekalbėdavo	kalbėti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,neg,indic
+6	–	–	SYM	_	_	_	_	_	_
+7	nei	nei	SCONJ	_	_	_	_	_	CONJ=
+8	su	su	ADP	_	_	_	_	_	PR=
+9	ja	jis	PRON	_	Gender=Fem|Number=Sing|Case=Ins|Definite=Ind	_	_	_	PRO=f,sg,ins,indef
+10	,	,	PUNCT	_	_	_	_	_	_
+11	nei	nei	SCONJ	_	_	_	_	_	CONJ=
+12	su	su	ADP	_	_	_	_	_	PR=
+13	kuo	kas	PRON	_	Case=Ins|Definite=Ind	_	_	_	PRO=ins,indef
+14	kitu	kitas	PRON	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	PRO=m,sg,ins,indef
+15	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 34
+# text = Net kai kasmet kovo penktąją ateidavo Aleksys ir jiedu uždegdavo žvakutę prie nupieštų iš atminties portretų, – ir tada nekalbėdavo.
+1	Net	net	PART	_	_	_	_	_	PART=
+2	kai	kai	SCONJ	_	_	_	_	_	CONJ=
+3	kasmet	kasmet	ADV	_	_	_	_	_	ADV=
+4	kovo	kovas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+5	penktąją	penktas	NUM	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Def|NumType=Ord	_	_	_	NUM,ord=f,sg,acc,def
+6	ateidavo	ateiti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+7	Aleksys	Aleksys	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+8	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+9	jiedu	jis	PRON	_	Gender=Masc|Case=Nom|Definite=Ind|Number=Dual	_	_	_	PRO=m,du,nom,indef
+10	uždegdavo	uždegti	VERB	_	Mood=Ind|Tense=Past|Person=3|Number=Dual	_	_	_	V=praet,hab,3p,du,indic
+11	žvakutę	žvakutė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+12	prie	prie	ADP	_	_	_	_	_	PR=
+13	nupieštų	nupiešti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+14	iš	iš	ADP	_	_	_	_	_	PR=
+15	atminties	atmintis	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+16	portretų	portretas	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+17	,	,	PUNCT	_	_	_	_	_	_
+18	–	–	SYM	_	_	_	_	_	_
+19	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+20	tada	tada	ADV	_	_	_	_	_	ADV=
+21	nekalbėdavo	kalbėti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3|Number=Dual	_	_	_	V=praet,hab,3p,du,neg,indic
+22	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 35
+# text = Aleksys, scenos darbininkas, skųsdavosi, kad senajame teatre buvę paprasčiau, o naujosios scenos užgaidų nė pats velnias nesupaisytų.
+1	Aleksys	Aleksys	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+2	,	,	PUNCT	_	_	_	_	_	_
+3	scenos	scena	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+4	darbininkas	darbininkas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+5	,	,	PUNCT	_	_	_	_	_	_
+6	skųsdavosi	skųstis	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,hab,3p,sg,indic
+7	,	,	PUNCT	_	_	_	_	_	_
+8	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+9	senajame	senas	ADJ	_	Gender=Masc|Number=Sing|Case=Loc|Definite=Def	_	_	_	A=m,sg,loc,def
+10	teatre	teatras	NOUN	_	Gender=Masc|Number=Sing|Case=Loc	_	_	_	S,m=sg,loc
+11	buvę	būti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+12	paprasčiau	paprastai	ADV	_	Degree=Comp	_	_	_	ADV=comp
+13	,	,	PUNCT	_	_	_	_	_	_
+14	o	o	SCONJ	_	_	_	_	_	CONJ=
+15	naujosios	naujas	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Def	_	_	_	A=f,sg,gen,def
+16	scenos	scena	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+17	užgaidų	užgaida	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+18	nė	nė	SCONJ	_	_	_	_	_	CONJ=
+19	pats	pats	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+20	velnias	velnias	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+21	nesupaisytų	nesupaisyti	VERB	_	Number=Sing|Polarity=Neg|Mood=Cnd|Person=3	_	_	_	V=3p,sg,neg,cond
+22	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 36
+# text = Vytautas Berankis kalbėdavo apie medžiagų stygių, pasenusias mašinas ir isterišką artelės direktorių.
+1	Vytautas	Vytautas	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+2	Berankis	Berankis	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+3	kalbėdavo	kalbėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+4	apie	apie	ADP	_	_	_	_	_	PR=
+5	medžiagų	medžiaga	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+6	stygių	stygius	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+7	,	,	PUNCT	_	_	_	_	_	_
+8	pasenusias	pasenti	VERB	_	Gender=Fem|Number=Plur|Case=Acc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,acc
+9	mašinas	mašina	NOUN	_	Gender=Fem|Number=Plur|Case=Acc	_	_	_	S,f=pl,acc
+10	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+11	isterišką	isteriškas	ADJ	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=f,sg,acc,indef
+12	artelės	artelė	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+13	direktorių	direktorius	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+14	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 37
+# text = Sakytum bendravo šifruotai, galvodami ir trokšdami pasakyti visai ką kita.
+1	Sakytum	sakyti	VERB	_	Number=Sing|Mood=Cnd|Person=2	_	_	_	V=2p,sg,cond
+2	bendravo	bendrauti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+3	šifruotai	šifruotas	ADJ	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	A=f,sg,dat,indef
+4	,	,	PUNCT	_	_	_	_	_	_
+5	galvodami	galvoti	VERB	_	Gender=Masc|Number=Plur|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,pl,m
+6	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+7	trokšdami	trokšti	VERB	_	Gender=Masc|Number=Plur|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,pl,m
+8	pasakyti	pasakyti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+9	visai	visai	ADV	_	_	_	_	_	ADV=
+10	ką	kas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+11	kita	kitas	PRON	_	Gender=Neut|Definite=Ind	_	_	_	PRO=n,indef
+12	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 38
+# text = Apie svarbiausiąjį dalyką, dėl kurio čia susiėjo, jiedu nešnekėdavo, antraip iškart būtų turėję prisiminti, kad iš visų dvidešimt šešių vyrų išliko vien jiedu.
+1	Apie	apie	ADP	_	_	_	_	_	PR=
+2	svarbiausiąjį	svarbus	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Def|Degree=Sup	_	_	_	A=super,m,sg,acc,def
+3	dalyką	dalykas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+4	,	,	PUNCT	_	_	_	_	_	_
+5	dėl	dėl	ADP	_	_	_	_	_	PR=
+6	kurio	kuris	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+7	čia	čia	ADV	_	_	_	_	_	ADV=
+8	susiėjo	susieiti	VERB	_	Reflex=Yes|Mood=Ind|Tense=Past|Person=3|Number=Dual	_	_	_	V,refl=praet,3p,du,indic
+9	,	,	PUNCT	_	_	_	_	_	_
+10	jiedu	jis	PRON	_	Gender=Masc|Case=Nom|Definite=Ind|Number=Dual	_	_	_	PRO=m,du,nom,indef
+11	nešnekėdavo	šnekėti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3|Number=Dual	_	_	_	V=praet,hab,3p,du,neg,indic
+12	,	,	PUNCT	_	_	_	_	_	_
+13	antraip	antraip	ADV	_	_	_	_	_	ADV=
+14	iškart	iškart	ADV	_	_	_	_	_	ADV=
+15	būtų	būti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+16	turėję	turėti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+17	prisiminti	prisiminti	VERB	_	Reflex=Yes|VerbForm=Inf	_	_	_	V,refl=inf
+18	,	,	PUNCT	_	_	_	_	_	_
+19	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+20	iš	iš	ADP	_	_	_	_	_	PR=
+21	visų	visas	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+22	dvidešimt	dvidešimt	NUM	_	NumType=Card	_	_	_	NUM=card
+23	šešių	šeši	NUM	_	Gender=Masc|Case=Gen|NumType=Card	_	_	_	NUM=card,m,gen
+24	vyrų	vyras	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+25	išliko	išlikti	VERB	_	Mood=Ind|Tense=Past|Person=3|Number=Dual	_	_	_	V=praet,3p,du,indic
+26	vien	vien	PART	_	_	_	_	_	PART=
+27	jiedu	jis	PRON	_	Gender=Masc|Case=Nom|Definite=Ind|Number=Dual	_	_	_	PRO=m,du,nom,indef
+28	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 39
+# text = – Žinia, visų svarbiausia yra žinia, – užsimerkęs kartojo Bronys, – aš parašyčiau tokią žinią, kad pas mus bemat atlėktų visas pasaulis, atlėktų viską pametąs.
+1	–	–	SYM	_	_	_	_	_	_
+2	Žinia	žinia	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+3	,	,	PUNCT	_	_	_	_	_	_
+4	visų	visas	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+5	svarbiausia	svarbus	ADJ	_	Gender=Neut|Definite=Ind|Degree=Sup	_	_	_	A=super,n,indef
+6	yra	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+7	žinia	žinia	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+8	,	,	PUNCT	_	_	_	_	_	_
+9	–	–	SYM	_	_	_	_	_	_
+10	užsimerkęs	užsimerkti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Reflex=Yes|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V,refl=partcp,praet,sg,m,act,indef,voc
+11	kartojo	kartoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+12	Bronys	Bronys	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+13	,	,	PUNCT	_	_	_	_	_	_
+14	–	–	SYM	_	_	_	_	_	_
+15	aš	aš	PRON	_	Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=sg,nom,indef
+16	parašyčiau	parašyti	VERB	_	Number=Sing|Mood=Cnd|Person=1	_	_	_	V=1p,sg,cond
+17	tokią	toks	PRON	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=f,sg,acc,indef
+18	žinią	žinia	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+19	,	,	PUNCT	_	_	_	_	_	_
+20	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+21	pas	pas	ADP	_	_	_	_	_	PR=
+22	mus	aš	PRON	_	Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=pl,acc,indef
+23	bemat	bemat	ADV	_	_	_	_	_	ADV=
+24	atlėktų	atlėkti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+25	visas	visas	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+26	pasaulis	pasaulis	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+27	,	,	PUNCT	_	_	_	_	_	_
+28	atlėktų	atlėkti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+29	viską	viskas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+30	pametąs	pamesti	VERB	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,m,act,indef,nom
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 40
+# text = Bet aš neturiu nei kuo, nei ant ko rašyt.
+1	Bet	bet	SCONJ	_	_	_	_	_	CONJ=
+2	aš	aš	PRON	_	Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=sg,nom,indef
+3	neturiu	turėti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Pres|Person=1	_	_	_	V=praes,1p,sg,neg,indic
+4	nei	nei	SCONJ	_	_	_	_	_	CONJ=
+5	kuo	kuo	PART	_	_	_	_	_	PART=
+6	,	,	PUNCT	_	_	_	_	_	_
+7	nei	nei	SCONJ	_	_	_	_	_	CONJ=
+8	ant	ant	ADP	_	_	_	_	_	PR=
+9	ko	ko	ADV	_	_	_	_	_	ADV=
+10	rašyt	rašyti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 41
+# text = Vyrų galvos sviro prie žemės, nors buvo lengvos it pūkai.
+1	Vyrų	vyras	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+2	galvos	galva	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+3	sviro	svirti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+4	prie	prie	ADP	_	_	_	_	_	PR=
+5	žemės	žemė	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+6	,	,	PUNCT	_	_	_	_	_	_
+7	nors	nors	SCONJ	_	_	_	_	_	CONJ=
+8	buvo	būti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+9	lengvos	lengvas	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=f,sg,gen,indef
+10	it	it	PART	_	_	_	_	_	PART=
+11	pūkai	pūkas	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+12	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 42
+# text = Visų veidai buvo vienodi, ir akys buvo vienodos – visos terodė pastangas išspausti bent vieną mintį.
+1	Visų	visas	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+2	veidai	veidas	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+3	buvo	būti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+4	vienodi	vienodas	ADJ	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	A=m,pl,nom,indef
+5	,	,	PUNCT	_	_	_	_	_	_
+6	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+7	akys	akis	NOUN	_	Gender=Fem|Number=Plur|Case=Nom	_	_	_	S,f=pl,nom
+8	buvo	būti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+9	vienodos	vienodas	ADJ	_	Gender=Fem|Number=Plur|Case=Nom|Definite=Ind	_	_	_	A=f,pl,nom,indef
+10	–	–	SYM	_	_	_	_	_	_
+11	visos	visas	PRON	_	Gender=Fem|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=f,pl,nom,indef
+12	terodė	terodyti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+13	pastangas	pastanga	NOUN	_	Gender=Fem|Number=Plur|Case=Acc	_	_	_	S,f=pl,acc
+14	išspausti	išspausti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+15	bent	bent	PART	_	_	_	_	_	PART=
+16	vieną	vienas	NUM	_	Gender=Masc|Number=Sing|Case=Acc|NumType=Card	_	_	_	NUM=card,m,sg,acc
+17	mintį	mintis	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+18	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 43
+# text = O debesys vis plaukė ir plaukė ta pačia kryptim, tarsi rodytų jiems kelią jei ne į laisvę, tai bent į gyvybę.
+1	O	o	SCONJ	_	_	_	_	_	CONJ=
+2	debesys	debesis	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+3	vis	vis	ADV	_	_	_	_	_	ADV=
+4	plaukė	plaukyti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+5	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+6	plaukė	plaukyti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+7	ta pačia	tas ptas	PRON	_	Gender=Fem|Number=Sing|Case=Ins|Definite=Ind	_	_	_	PRO=f,sg,ins,indef
+8	kryptim	kryptis	NOUN	_	Gender=Fem|Number=Sing|Case=Ins	_	_	_	S,f=sg,ins
+9	,	,	PUNCT	_	_	_	_	_	_
+10	tarsi	tarsi	ADV	_	_	_	_	_	ADV=
+11	rodytų	rodyti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+12	jiems	jis	PRON	_	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind	_	_	_	PRO=m,pl,dat,indef
+13	kelią	kelias	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+14	jei	jei	SCONJ	_	_	_	_	_	CONJ=
+15	ne	ne	PART	_	_	_	_	_	PART=
+16	į	į	ADP	_	_	_	_	_	PR=
+17	laisvę	laisvė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+18	,	,	PUNCT	_	_	_	_	_	_
+19	tai bent	tai bent	INTJ	_	_	_	_	_	INTJ=
+20	į	į	ADP	_	_	_	_	_	PR=
+21	gyvybę	gyvybė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+22	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 44
+# text = Prabilti būtų reiškę iškart prisiminti tai, kas didžiausiu vargu buvo pamiršta, ištremta iš atminties, supančiota ir įmesta į gilią gilią duobę, gal bedugnę, butų reiškę vėl išvysti tą išsikerojusį rudą kelmą it jaučio galva, kuris dantimis įsikibo jam į ranką, tą speigą ir pūgą, ar pirma pūgą, o paskui speigą, tolydžio griuvinėjančius į pusnį vyrus, jų veidus, visus vienodus, lygiai pajuodusius ir be išraiškos, visai nepanašius į Aleksio nupieštuosius, nors kitados jie, matyt, buvo tikrai tokie, tikrai buvo tokie: Valius, Zenka Kaunietis, aniedu svetimieji, Pranas ir visi kiti, plokšti, nubrūžuoti neryškiu pieštuku (Aleksys visad piešdavo kietu grafitu), ratu apstoję vienintelę ploną žvakutę ant jo kambario stalo.
+1	Prabilti	prabilti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+2	būtų	būti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+3	reiškę	reikšti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+4	iškart	iškart	ADV	_	_	_	_	_	ADV=
+5	prisiminti	prisiminti	VERB	_	Reflex=Yes|VerbForm=Inf	_	_	_	V,refl=inf
+6	tai	tai	SCONJ	_	_	_	_	_	CONJ=
+7	,	,	PUNCT	_	_	_	_	_	_
+8	kas	kas	PRON	_	Case=Nom|Definite=Ind	_	_	_	PRO=nom,indef
+9	didžiausiu	didis	ADJ	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind|Degree=Sup	_	_	_	A=super,m,sg,ins,indef
+10	vargu	vargu	PART	_	_	_	_	_	PART=
+11	buvo	būti	VERB	_	Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,indic
+12	pamiršta	pamiršti	VERB	_	Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,indic
+13	,	,	PUNCT	_	_	_	_	_	_
+14	ištremta	ištremti	VERB	_	Gender=Neut|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,n,pass,indef
+15	iš	iš	ADP	_	_	_	_	_	PR=
+16	atminties	atmintis	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+17	,	,	PUNCT	_	_	_	_	_	_
+18	supančiota	supančioti	VERB	_	Gender=Neut|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,n,pass,indef
+19	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+20	įmesta	įmesti	VERB	_	Gender=Neut|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,n,pass,indef
+21	į	į	ADP	_	_	_	_	_	PR=
+22	gilią	gilus	ADJ	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=f,sg,acc,indef
+23	gilią	gilus	ADJ	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=f,sg,acc,indef
+24	duobę	duobė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+25	,	,	PUNCT	_	_	_	_	_	_
+26	gal	gal	PART	_	_	_	_	_	PART=
+27	bedugnę	bedugnė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+28	,	,	PUNCT	_	_	_	_	_	_
+29	butų	butas	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+30	reiškę	reikšti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+31	vėl	vėl	ADV	_	_	_	_	_	ADV=
+32	išvysti	išvysti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+33	tą	tas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+34	išsikerojusį	išsikeroti	VERB	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind|Reflex=Yes|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V,refl=partcp,praet,sg,m,act,indef,acc
+35	rudą	rudas	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+36	kelmą	kelmas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+37	it	it	PART	_	_	_	_	_	PART=
+38	jaučio	jautis	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+39	galva	galva	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+40	,	,	PUNCT	_	_	_	_	_	_
+41	kuris	kuris	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+42	dantimis	dantis	NOUN	_	Gender=Masc|Number=Plur|Case=Ins	_	_	_	S,m=pl,ins
+43	įsikibo	įsikibti	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+44	jam	jis	PRON	_	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=m,sg,dat,indef
+45	į	į	ADP	_	_	_	_	_	PR=
+46	ranką	ranka	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+47	,	,	PUNCT	_	_	_	_	_	_
+48	tą	tas	PRON	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=f,sg,acc,indef
+49	speigą	speigas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+50	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+51	pūgą	pūga	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+52	,	,	PUNCT	_	_	_	_	_	_
+53	ar	ar	SCONJ	_	_	_	_	_	CONJ=
+54	pirma	pirma	ADV	_	_	_	_	_	ADV=
+55	pūgą	pūga	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+56	,	,	PUNCT	_	_	_	_	_	_
+57	o	o	SCONJ	_	_	_	_	_	CONJ=
+58	paskui	paskui	ADV	_	_	_	_	_	ADV=
+59	speigą	speigas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+60	,	,	PUNCT	_	_	_	_	_	_
+61	tolydžio	tolydžio	ADV	_	_	_	_	_	ADV=
+62	griuvinėjančius	griuvinėti	VERB	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,pl,m,act,indef,acc
+63	į	į	ADP	_	_	_	_	_	PR=
+64	pusnį	pusnis	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+65	vyrus	vyras	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+66	,	,	PUNCT	_	_	_	_	_	_
+67	jų	jis	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+68	veidus	veidas	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+69	,	,	PUNCT	_	_	_	_	_	_
+70	visus	visas	PRON	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=m,pl,acc,indef
+71	vienodus	vienodas	ADJ	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	A=m,pl,acc,indef
+72	,	,	PUNCT	_	_	_	_	_	_
+73	lygiai	lygiai	ADV	_	_	_	_	_	ADV=
+74	pajuodusius	pajuosti	VERB	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,m,act,indef,acc
+75	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+76	be	be	ADP	_	_	_	_	_	PR=
+77	išraiškos	išraiška	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+78	,	,	PUNCT	_	_	_	_	_	_
+79	visai	visai	ADV	_	_	_	_	_	ADV=
+80	nepanašius	nepanašus	ADJ	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	A=m,pl,acc,indef
+81	į	į	ADP	_	_	_	_	_	PR=
+82	Aleksio	Aleksys	PROPN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S, propn,m=sg,gen
+83	nupieštuosius	nupiešti	VERB	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Def|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,m,pass,def,acc
+84	,	,	PUNCT	_	_	_	_	_	_
+85	nors	nors	SCONJ	_	_	_	_	_	CONJ=
+86	kitados	kitados	ADV	_	_	_	_	_	ADV=
+87	jie	jis	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+88	,	,	PUNCT	_	_	_	_	_	_
+89	matyt	matyt	PART	_	_	_	_	_	PART=
+90	,	,	PUNCT	_	_	_	_	_	_
+91	buvo	būti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+92	tikrai	tikrai	ADV	_	_	_	_	_	ADV=
+93	tokie	toks	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+94	,	,	PUNCT	_	_	_	_	_	_
+95	tikrai	tikrai	ADV	_	_	_	_	_	ADV=
+96	buvo	būti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+97	tokie	toks	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+98	:	:	SYM	_	_	_	_	_	_
+99	Valius	Valius	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+100	,	,	PUNCT	_	_	_	_	_	_
+101	Zenka	Zenka	_	_	_	_	_	_	=
+102	Kaunietis	kaunietis	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+103	,	,	PUNCT	_	_	_	_	_	_
+104	aniedu	anas	PRON	_	Gender=Masc|Case=Nom|Definite=Ind|Number=Dual	_	_	_	PRO=m,du,nom,indef
+105	svetimieji	svetimas	ADJ	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Def	_	_	_	A=m,pl,nom,def
+106	,	,	PUNCT	_	_	_	_	_	_
+107	Pranas	Pranas	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+108	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+109	visi	visas	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+110	kiti	kitas	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+111	,	,	PUNCT	_	_	_	_	_	_
+112	plokšti	plokščias	ADJ	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	A=m,pl,nom,indef
+113	,	,	PUNCT	_	_	_	_	_	_
+114	nubrūžuoti	nubrūžuoti	_	_	_	_	_	_	=
+115	neryškiu	neryškus	ADJ	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	A=m,sg,ins,indef
+116	pieštuku	pieštukas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+117	(	(	PUNCT	_	_	_	_	_	_
+118	Aleksys	Aleksys	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+119	visad	visad	ADV	_	_	_	_	_	ADV=
+120	piešdavo	piešti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+121	kietu	kietas	ADJ	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	A=m,sg,ins,indef
+122	grafitu	grafitas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+123	),	),	PUNCT	_	_	_	_	_	_
+124	ratu	ratas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+125	apstoję	apstoti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+126	vienintelę	vienintelis	ADJ	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=f,sg,acc,indef
+127	ploną	plonas	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+128	žvakutę	žvakutė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+129	ant	ant	ADP	_	_	_	_	_	PR=
+130	jo	jis	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+131	kambario	kambarys	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+132	stalo	stalas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+133	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 45
+# text = O prisiminti, ryškiai prisiminti juos ir kitus, ir dar kitus, bevardžius ir beveidžius, jiedu su Aleksiu nenorėjo.
+1	O	o	SCONJ	_	_	_	_	_	CONJ=
+2	prisiminti	prisiminti	VERB	_	Reflex=Yes|VerbForm=Inf	_	_	_	V,refl=inf
+3	,	,	PUNCT	_	_	_	_	_	_
+4	ryškiai	ryškiai	ADV	_	_	_	_	_	ADV=
+5	prisiminti	prisiminti	VERB	_	Reflex=Yes|VerbForm=Inf	_	_	_	V,refl=inf
+6	juos	jis	PRON	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=m,pl,acc,indef
+7	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+8	kitus	kitas	PRON	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=m,pl,acc,indef
+9	,	,	PUNCT	_	_	_	_	_	_
+10	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+11	dar	dar	ADV	_	_	_	_	_	ADV=
+12	kitus	kitas	PRON	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=m,pl,acc,indef
+13	,	,	PUNCT	_	_	_	_	_	_
+14	bevardžius	bevardis	ADJ	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	A=m,pl,acc,indef
+15	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+16	beveidžius	beveidis	ADJ	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	A=m,pl,acc,indef
+17	,	,	PUNCT	_	_	_	_	_	_
+18	jiedu	jis	PRON	_	Gender=Masc|Case=Nom|Definite=Ind|Number=Dual	_	_	_	PRO=m,du,nom,indef
+19	su	su	ADP	_	_	_	_	_	PR=
+20	Aleksiu	Aleksys	PROPN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S, propn,m=sg,ins
+21	nenorėjo	norėti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3|Number=Dual	_	_	_	V=praet,3p,du,neg,indic
+22	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 46
+# text = Nenorėjo, nedrįso ir neįstengė.
+1	Nenorėjo	norėti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+2	,	,	PUNCT	_	_	_	_	_	_
+3	nedrįso	drįsti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+4	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+5	neįstengė	įstengti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 47
+# text = Tylėdami išlenkdavo po burnelę, paskui dar po vieną, gražiai ištuštindavo apeigų butelaitį, ir Aleksys atsidusęs tardavo: einu maitint Elenytės.
+1	Tylėdami	tylėti	VERB	_	Gender=Masc|Number=Plur|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,pl,m
+2	išlenkdavo	išlenkti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+3	po	po	ADP	_	_	_	_	_	PR=
+4	burnelę	burnelė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+5	,	,	PUNCT	_	_	_	_	_	_
+6	paskui	paskui	ADV	_	_	_	_	_	ADV=
+7	dar	dar	ADV	_	_	_	_	_	ADV=
+8	po	po	ADP	_	_	_	_	_	PR=
+9	vieną	vienas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+10	,	,	PUNCT	_	_	_	_	_	_
+11	gražiai	gražiai	ADV	_	_	_	_	_	ADV=
+12	ištuštindavo	ištuštinti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+13	apeigų	apeiga	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+14	butelaitį	butelaitis	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+15	,	,	PUNCT	_	_	_	_	_	_
+16	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+17	Aleksys	Aleksys	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+18	atsidusęs	atsidusti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Reflex=Yes|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V,refl=partcp,praet,sg,m,act,indef,voc
+19	tardavo	tarti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+20	:	:	SYM	_	_	_	_	_	_
+21	einu	eiti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=1	_	_	_	V=praes,1p,sg,indic
+22	maitint	maitinti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+23	Elenytės	Elenytė	PROPN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S, propn,f=sg,gen
+24	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 48
+# text = (Jo žmona jau keletas metų nekėlė iš lovos.
+1	(	(	PUNCT	_	_	_	_	_	_
+2	Jo	jis	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+3	žmona	žmona	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+4	jau	jau	ADV	_	_	_	_	_	ADV=
+5	keletas	keletas	PRON	_	Case=Nom|Definite=Ind	_	_	_	PRO=nom,indef
+6	metų	metai	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+7	nekėlė	kelti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+8	iš	iš	ADP	_	_	_	_	_	PR=
+9	lovos	lova	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+10	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 49
+# text = Mažoji Elenytė, dar vienas neleistinas prisiminimas: juodo sniego iššaldytos įsčios, pasakiškas dešras dariusios rankos, skruzdė Elenytė nutraukytom kojelėm.)
+1	Mažoji	mažas	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Def	_	_	_	A=f,sg,nom,def
+2	Elenytė	Elenytė	PROPN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S, propn,f=sg,nom
+3	,	,	PUNCT	_	_	_	_	_	_
+4	dar	dar	ADV	_	_	_	_	_	ADV=
+5	vienas	vienas	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+6	neleistinas	neleistinas	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=m,sg,nom,indef
+7	prisiminimas	prisiminimas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+8	:	:	SYM	_	_	_	_	_	_
+9	juodo	juodas	ADJ	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=m,sg,gen,indef
+10	sniego	sniegas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+11	iššaldytos	iššaldyti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,pass,indef,voc
+12	įsčios	įsčios	NOUN	_	Gender=Fem|Number=Plur|Case=Nom	_	_	_	S,f=pl,nom
+13	,	,	PUNCT	_	_	_	_	_	_
+14	pasakiškas	pasakiškas	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=m,sg,nom,indef
+15	dešras	dešra	NOUN	_	Gender=Fem|Number=Plur|Case=Acc	_	_	_	S,f=pl,acc
+16	dariusios	daryti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+17	rankos	ranka	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+18	,	,	PUNCT	_	_	_	_	_	_
+19	skruzdė	skruzdė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+20	Elenytė	Elenytė	PROPN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S, propn,f=sg,nom
+21	nutraukytom	nutraukyti	VERB	_	Gender=Fem|Number=Plur|Case=Ins|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,pass,indef,ins
+22	kojelėm.	kojelė	NOUN	_	Gender=Fem|Number=Plur|Case=Ins	_	_	_	S,f=pl,ins
+23	)	)	PUNCT	_	_	_	_	_	_
+
+# sent_id = 50
+# text = Aleksio ir Elenytės nebeliko, Ona neatsišaukė, nedavė jokio ženklo.
+1	Aleksio	Aleksys	PROPN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S, propn,m=sg,gen
+2	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+3	Elenytės	Elenytė	PROPN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S, propn,f=sg,gen
+4	nebeliko	likti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+5	,	,	PUNCT	_	_	_	_	_	_
+6	Ona	Ona	PROPN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S, propn,f=sg,nom
+7	neatsišaukė	sišauktis	VERB	_	Number=Sing|Polarity=Neg|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,neg,indic
+8	,	,	PUNCT	_	_	_	_	_	_
+9	nedavė	duoti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+10	jokio	joks	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+11	ženklo	ženklas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+12	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 51
+# text = Dukterys kasdieniškai riejosi ir vėl taikėsi su vyrais, retkarčiais paklausdavo, ar jam ko nestinga, ar nereikia padėti – o ko jam stigs, visai dar nesenam, drūtam vyrui, jis pats dar galėjo gražiai padėti kitiems, kad ir joms, jei tik būtų prireikę.
+1	Dukterys	duktė	NOUN	_	Gender=Fem|Number=Plur|Case=Nom	_	_	_	S,f=pl,nom
+2	kasdieniškai	kasdieniškai	ADV	_	_	_	_	_	ADV=
+3	riejosi	rietis	VERB	_	Number=Plur|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,pl,indic
+4	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+5	vėl	vėl	ADV	_	_	_	_	_	ADV=
+6	taikėsi	taikytis	VERB	_	Number=Plur|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,pl,indic
+7	su	su	ADP	_	_	_	_	_	PR=
+8	vyrais	vyras	NOUN	_	Gender=Masc|Number=Plur|Case=Ins	_	_	_	S,m=pl,ins
+9	,	,	PUNCT	_	_	_	_	_	_
+10	retkarčiais	retkarčiais	ADV	_	_	_	_	_	ADV=
+11	paklausdavo	paklausti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,pl,indic
+12	,	,	PUNCT	_	_	_	_	_	_
+13	ar	ar	SCONJ	_	_	_	_	_	CONJ=
+14	jam	jis	PRON	_	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=m,sg,dat,indef
+15	ko	ko	ADV	_	_	_	_	_	ADV=
+16	nestinga	stigti	VERB	_	Number=Plur|Polarity=Neg|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,pl,neg,indic
+17	,	,	PUNCT	_	_	_	_	_	_
+18	ar	ar	SCONJ	_	_	_	_	_	CONJ=
+19	nereikia	reikėti	VERB	_	Number=Plur|Polarity=Neg|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,pl,neg,indic
+20	padėti	padėti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+21	–	–	SYM	_	_	_	_	_	_
+22	o	o	SCONJ	_	_	_	_	_	CONJ=
+23	ko	ko	ADV	_	_	_	_	_	ADV=
+24	jam	jis	PRON	_	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=m,sg,dat,indef
+25	stigs	stigti	VERB	_	Number=Plur|Mood=Ind|Tense=Fut|Person=3	_	_	_	V=fut,3p,pl,indic
+26	,	,	PUNCT	_	_	_	_	_	_
+27	visai	visai	ADV	_	_	_	_	_	ADV=
+28	dar	dar	ADV	_	_	_	_	_	ADV=
+29	nesenam	nesenas	ADJ	_	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind	_	_	_	A=m,sg,dat,indef
+30	,	,	PUNCT	_	_	_	_	_	_
+31	drūtam	drūtas	ADJ	_	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind	_	_	_	A=m,sg,dat,indef
+32	vyrui	vyras	NOUN	_	Gender=Masc|Number=Sing|Case=Dat	_	_	_	S,m=sg,dat
+33	,	,	PUNCT	_	_	_	_	_	_
+34	jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+35	pats	pats	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+36	dar	dar	ADV	_	_	_	_	_	ADV=
+37	galėjo	galėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+38	gražiai	gražiai	ADV	_	_	_	_	_	ADV=
+39	padėti	padėti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+40	kitiems	kitas	PRON	_	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind	_	_	_	PRO=m,pl,dat,indef
+41	,	,	PUNCT	_	_	_	_	_	_
+42	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+43	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+44	joms	jis	PRON	_	Gender=Fem|Number=Plur|Case=Dat|Definite=Ind	_	_	_	PRO=f,pl,dat,indef
+45	,	,	PUNCT	_	_	_	_	_	_
+46	jei	jei	SCONJ	_	_	_	_	_	CONJ=
+47	tik	tik	ADV	_	_	_	_	_	ADV=
+48	būtų	būti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+49	prireikę	prireikti	VERB	_	Gender=Neut|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,n,act,indef
+50	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 52
+# text = Vasara beveik įsismagino, buvo galima kur nuvažiuoti, bet Vytautui Berankiui patiko Vilnius, senos įkaitusios gatvelės rodėsi mielesnės už ramią tėviškės ežerų gaivą.
+1	Vasara	vasara	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+2	beveik	beveik	ADV	_	_	_	_	_	ADV=
+3	įsismagino	įsismaginti	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+4	,	,	PUNCT	_	_	_	_	_	_
+5	buvo	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+6	galima	galėti	VERB	_	Gender=Neut|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,n,pass,indef
+7	kur	kur	ADV	_	_	_	_	_	ADV=
+8	nuvažiuoti	nuvažiuoti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+9	,	,	PUNCT	_	_	_	_	_	_
+10	bet	bet	SCONJ	_	_	_	_	_	CONJ=
+11	Vytautui	Vytautas	PROPN	_	Gender=Masc|Number=Sing|Case=Dat	_	_	_	S, propn,m=sg,dat
+12	Berankiui	Berankis	PROPN	_	Gender=Masc|Number=Sing|Case=Dat	_	_	_	S, propn,m=sg,dat
+13	patiko	patikti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+14	Vilnius	Vilnius	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+15	,	,	PUNCT	_	_	_	_	_	_
+16	senos	senas	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=f,sg,gen,indef
+17	įkaitusios	įkaisti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+18	gatvelės	gatvelė	NOUN	_	Gender=Fem|Number=Plur|Case=Nom	_	_	_	S,f=pl,nom
+19	rodėsi	rodytis	VERB	_	Number=Plur|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,pl,indic
+20	mielesnės	mielas	ADJ	_	Gender=Fem|Number=Plur|Case=Nom|Definite=Ind|Degree=Comp	_	_	_	A=comp,f,pl,nom,indef
+21	už	už	ADP	_	_	_	_	_	PR=
+22	ramią	ramus	ADJ	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=f,sg,acc,indef
+23	tėviškės	tėviškė	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+24	ežerų	ežeras	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+25	gaivą	gaiva	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+26	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 53
+# text = Noras užpuolė iš pasalų, įgėlė tarsi gyvatė į nuogą, neapsaugotą blauzdą, nuodai bemat pasklido po visą kūną, užtemdė smegenis, sujaukė net sapnus.
+1	Noras	noras	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+2	užpuolė	užpulti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+3	iš pasalų	iš pasalų	_	_	_	_	_	_	=
+4	,	,	PUNCT	_	_	_	_	_	_
+5	įgėlė	įgelti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+6	tarsi	tarsi	ADV	_	_	_	_	_	ADV=
+7	gyvatė	gyvatė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+8	į	į	ADP	_	_	_	_	_	PR=
+9	nuogą	nuogas	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+10	,	,	PUNCT	_	_	_	_	_	_
+11	neapsaugotą	neapsaugotas	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+12	blauzdą	blauzda	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+13	,	,	PUNCT	_	_	_	_	_	_
+14	nuodai	nuodas	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+15	bemat	bemat	ADV	_	_	_	_	_	ADV=
+16	pasklido	pasklidas	ADJ	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=m,sg,gen,indef
+17	po	po	ADP	_	_	_	_	_	PR=
+18	visą	visas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+19	kūną	kūnas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+20	,	,	PUNCT	_	_	_	_	_	_
+21	užtemdė	užtemdyti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+22	smegenis	smegenys	NOUN	_	Gender=Fem|Number=Plur|Case=Acc	_	_	_	S,f=pl,acc
+23	,	,	PUNCT	_	_	_	_	_	_
+24	sujaukė	sujaukti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+25	net	net	PART	_	_	_	_	_	PART=
+26	sapnus	sapnas	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+27	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 54
+# text = Tas nuodingas noras tvinksėjo širdy kartu su krauju, galgi patsai kraujas virto tuo noru, širdis virto tuo noru, inkstai ir kepenys, visas kūnas juo pavirto.
+1	Tas	tas	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+2	nuodingas	nuodingas	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=m,sg,nom,indef
+3	noras	noras	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+4	tvinksėjo	tvinksėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+5	širdy	širdis	NOUN	_	Gender=Fem|Number=Sing|Case=Loc	_	_	_	S,f=sg,loc
+6	kartu	kartu	ADV	_	_	_	_	_	ADV=
+7	su	su	ADP	_	_	_	_	_	PR=
+8	krauju	kraujas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+9	,	,	PUNCT	_	_	_	_	_	_
+10	galgi	galgi	_	_	_	_	_	_	=
+11	patsai	pats	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Def	_	_	_	PRO=m,sg,nom,def
+12	kraujas	kraujas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+13	virto	virsti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+14	tuo	tas	PRON	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	PRO=m,sg,ins,indef
+15	noru	noras	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+16	,	,	PUNCT	_	_	_	_	_	_
+17	širdis	širdis	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+18	virto	virsti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+19	tuo	tas	PRON	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	PRO=m,sg,ins,indef
+20	noru	noras	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+21	,	,	PUNCT	_	_	_	_	_	_
+22	inkstai	inkstas	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+23	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+24	kepenys	kepenys	NOUN	_	Gender=Fem|Number=Plur|Case=Nom	_	_	_	S,f=pl,nom
+25	,	,	PUNCT	_	_	_	_	_	_
+26	visas	visas	PRON	_	Gender=Fem|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=f,pl,acc,indef
+27	kūnas	kūnas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+28	juo	juo	SCONJ	_	_	_	_	_	CONJ=
+29	pavirto	pavirsti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 55
+# text = Keista pagunda pergalėti save patį degino kaip ledinė ugnis, Vytautas Berankis staiga pajuto, kad visą gyvenimą nedrįso pripažinti sau, kas iš tikrųjų esąs, apsimetinėjo prieš kitus ir apgaudinėjo save, suniokojo svarbią savo sielos dalį, be kurios jis nebuvo tikrasis Vytautas Berankis, gyveno kaip kitas žmogus: kitokiu veidu, kitokiu vardu, kitokia siela.
+1	Keista	keistas	ADJ	_	Gender=Neut|Definite=Ind	_	_	_	A=n,indef
+2	pagunda	pagunda	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+3	pergalėti	pergalėti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+4	save	savęs	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+5	patį	pats	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+6	degino	deginti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+7	kaip	kaip	SCONJ	_	_	_	_	_	CONJ=
+8	ledinė	ledinis	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+9	ugnis	ugnis	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+10	,	,	PUNCT	_	_	_	_	_	_
+11	Vytautas	Vytautas	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+12	Berankis	Berankis	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+13	staiga	staiga	ADV	_	_	_	_	_	ADV=
+14	pajuto	pajusti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+15	,	,	PUNCT	_	_	_	_	_	_
+16	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+17	visą	visas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+18	gyvenimą	gyvenimas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+19	nedrįso	drįsti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+20	pripažinti	pripažinti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+21	sau	savęs	PRON	_	Case=Dat|Definite=Ind	_	_	_	PRO=dat,indef
+22	,	,	PUNCT	_	_	_	_	_	_
+23	kas	kas	PRON	_	Case=Nom|Definite=Ind	_	_	_	PRO=nom,indef
+24	iš tikrųjų	iš tikrųjų	ADV	_	_	_	_	_	ADV=
+25	esąs	būti	VERB	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,m,act,indef,nom
+26	,	,	PUNCT	_	_	_	_	_	_
+27	apsimetinėjo	apsimetinėti	VERB	_	Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,indic
+28	prieš	prieš	ADP	_	_	_	_	_	PR=
+29	kitus	kitas	PRON	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=m,pl,acc,indef
+30	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+31	apgaudinėjo	apgaudinėti	VERB	_	Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,indic
+32	save	savęs	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+33	,	,	PUNCT	_	_	_	_	_	_
+34	suniokojo	suniokoti	VERB	_	Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,indic
+35	svarbią	svarbus	ADJ	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=f,sg,acc,indef
+36	savo	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+37	sielos	siela	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+38	dalį	dalis	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+39	,	,	PUNCT	_	_	_	_	_	_
+40	be	be	ADP	_	_	_	_	_	PR=
+41	kurios	kuris	PRON	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=f,sg,gen,indef
+42	jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+43	nebuvo	būti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+44	tikrasis	tikras	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Def	_	_	_	A=m,sg,nom,def
+45	Vytautas	Vytautas	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+46	Berankis	Berankis	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+47	,	,	PUNCT	_	_	_	_	_	_
+48	gyveno	gyventi	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+49	kaip	kaip	SCONJ	_	_	_	_	_	CONJ=
+50	kitas	kitas	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+51	žmogus	žmogus	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+52	:	:	SYM	_	_	_	_	_	_
+53	kitokiu	kitoks	PRON	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	PRO=m,sg,ins,indef
+54	veidu	veidas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+55	,	,	PUNCT	_	_	_	_	_	_
+56	kitokiu	kitoks	PRON	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	PRO=m,sg,ins,indef
+57	vardu	vardas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+58	,	,	PUNCT	_	_	_	_	_	_
+59	kitokia	kitoks	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=f,sg,nom,indef
+60	siela	siela	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+61	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 56
+# text = Išsižadėjo savęs, vos triskart pragydo gaidys, pats vienas buvo ir Jėzus, ir apaštalas Petras.
+1	Išsižadėjo	išsižadėti	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+2	savęs	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+3	,	,	PUNCT	_	_	_	_	_	_
+4	vos	vos	PART	_	_	_	_	_	PART=
+5	triskart	triskart	ADV	_	_	_	_	_	ADV=
+6	pragydo	pragysti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+7	gaidys	gaidys	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+8	,	,	PUNCT	_	_	_	_	_	_
+9	pats	pats	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+10	vienas	vienas	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+11	buvo	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+12	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+13	Jėzus	Jėzus	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+14	,	,	PUNCT	_	_	_	_	_	_
+15	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+16	apaštalas	apaštalas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+17	Petras	Petras	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+18	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 57
+# text = Jam reikėjo surasti save, grįžti į save bent prieš mirtį.
+1	Jam	jis	PRON	_	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=m,sg,dat,indef
+2	reikėjo	reikėti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+3	surasti	surasti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+4	save	savęs	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+5	,	,	PUNCT	_	_	_	_	_	_
+6	grįžti	grįžti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+7	į	į	ADP	_	_	_	_	_	PR=
+8	save	savęs	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+9	bent	bent	PART	_	_	_	_	_	PART=
+10	prieš	prieš	ADV	_	_	_	_	_	ADV=
+11	mirtį	mirtis	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+12	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 58
+# text = Dingtelėjo mintis – gal ir Ona neatsiliepia todėl, kad nuslėpė nuo jos savo esmę, nepasakė jai apie savo ranką, klajojančią po pasaulį, o gal po dausas.
+1	Dingtelėjo	dingtelti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+2	mintis	mintis	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+3	–	–	SYM	_	_	_	_	_	_
+4	gal	gal	PART	_	_	_	_	_	PART=
+5	ir	ir	PART	_	_	_	_	_	PART=
+6	Ona	Ona	PROPN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S, propn,f=sg,nom
+7	neatsiliepia	silieptis	VERB	_	Number=Sing|Polarity=Neg|Reflex=Yes|Mood=Ind|Tense=Pres|Person=3	_	_	_	V,refl=praes,3p,sg,neg,indic
+8	todėl	todėl	ADV	_	_	_	_	_	ADV=
+9	,	,	PUNCT	_	_	_	_	_	_
+10	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+11	nuslėpė	nuslėpti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+12	nuo	nuo	ADP	_	_	_	_	_	PR=
+13	jos	jis	PRON	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=f,sg,gen,indef
+14	savo	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+15	esmę	esmė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+16	,	,	PUNCT	_	_	_	_	_	_
+17	nepasakė	pasakyti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+18	jai	jis	PRON	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=f,sg,dat,indef
+19	apie	apie	ADP	_	_	_	_	_	PR=
+20	savo	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+21	ranką	ranka	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+22	,	,	PUNCT	_	_	_	_	_	_
+23	klajojančią	klajoti	VERB	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,f,act,indef,acc
+24	po	po	ADP	_	_	_	_	_	PR=
+25	pasaulį	pasaulis	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+26	,	,	PUNCT	_	_	_	_	_	_
+27	o	o	SCONJ	_	_	_	_	_	CONJ=
+28	gal	gal	PART	_	_	_	_	_	PART=
+29	po	po	ADP	_	_	_	_	_	PR=
+30	dausas	dausos	NOUN	_	Gender=Fem|Number=Plur|Case=Acc	_	_	_	S,f=pl,acc
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 59
+# text = Dabar toji ranka jo šaukėsi.
+1	Dabar	dabar	ADV	_	_	_	_	_	ADV=
+2	toji	tas	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Def	_	_	_	PRO=f,sg,nom,def
+3	ranka	ranka	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+4	jo	jis	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+5	šaukėsi	šauktis	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 60
+# text = Senolis Rapolas kadaise patardavo: jei apims sumaištis, mesk burtą, o dar geriau lauk burto, tik ne iš šito nukryžiuoto dievo, o iš ąžuolų, iš alkos, iš šventos upės tėkmės, iš švento vilko kauksmo; tiesiog gyvenk ir lauk burto, sakydavo, nebūgštauk, kad jį pražiūrėsi ar praklausysi, ne, kada jis pasirodys, – o būtinai pasirodys, – iškart jį pažinsi, jis prabils į tave garsiu balsu, ir jau viską žinosi, neišsiginsi jo nesupratęs; pasirink šventą vietą ir lauk.
+1	Senolis	senolis	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+2	Rapolas	Rapolas	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+3	kadaise	kadaise	ADV	_	_	_	_	_	ADV=
+4	patardavo	patarti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+5	:	:	SYM	_	_	_	_	_	_
+6	jei	jei	SCONJ	_	_	_	_	_	CONJ=
+7	apims	apimti	VERB	_	Number=Sing|Mood=Ind|Tense=Fut|Person=3	_	_	_	V=fut,3p,sg,indic
+8	sumaištis	sumaištis	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+9	,	,	PUNCT	_	_	_	_	_	_
+10	mesk	mesti	VERB	_	Number=Sing|Mood=Imp|Person=2	_	_	_	V=2p,sg,imper
+11	burtą	burtas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+12	,	,	PUNCT	_	_	_	_	_	_
+13	o	o	SCONJ	_	_	_	_	_	CONJ=
+14	dar	dar	ADV	_	_	_	_	_	ADV=
+15	geriau	gerai	ADV	_	Degree=Comp	_	_	_	ADV=comp
+16	lauk	lauk	ADV	_	_	_	_	_	ADV=
+17	burto	burtas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+18	,	,	PUNCT	_	_	_	_	_	_
+19	tik	tik	ADV	_	_	_	_	_	ADV=
+20	ne	ne	PART	_	_	_	_	_	PART=
+21	iš	iš	ADP	_	_	_	_	_	PR=
+22	šito	šitas	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+23	nukryžiuoto	nukryžiuoti	VERB	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,pass,indef,gen
+24	dievo	dievas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+25	,	,	PUNCT	_	_	_	_	_	_
+26	o	o	SCONJ	_	_	_	_	_	CONJ=
+27	iš	iš	ADP	_	_	_	_	_	PR=
+28	ąžuolų	ąžuolas	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+29	,	,	PUNCT	_	_	_	_	_	_
+30	iš	iš	ADP	_	_	_	_	_	PR=
+31	alkos	alka	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+32	,	,	PUNCT	_	_	_	_	_	_
+33	iš	iš	ADP	_	_	_	_	_	PR=
+34	šventos	šventas	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=f,sg,gen,indef
+35	upės	upė	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+36	tėkmės	tėkmė	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+37	,	,	PUNCT	_	_	_	_	_	_
+38	iš	iš	ADP	_	_	_	_	_	PR=
+39	švento	šventas	ADJ	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=m,sg,gen,indef
+40	vilko	vilkas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+41	kauksmo	kauksmas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+42	;	;	SYM	_	_	_	_	_	_
+43	tiesiog	tiesiog	ADV	_	_	_	_	_	ADV=
+44	gyvenk	gyventi	VERB	_	Number=Sing|Mood=Imp|Person=2	_	_	_	V=2p,sg,imper
+45	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+46	lauk	lauk	ADV	_	_	_	_	_	ADV=
+47	burto	burtas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+48	,	,	PUNCT	_	_	_	_	_	_
+49	sakydavo	sakyti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+50	,	,	PUNCT	_	_	_	_	_	_
+51	nebūgštauk	būgštauti	VERB	_	Number=Sing|Polarity=Neg|Mood=Imp|Person=2	_	_	_	V=2p,sg,neg,imper
+52	,	,	PUNCT	_	_	_	_	_	_
+53	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+54	jį	jis	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+55	pražiūrėsi	pražiūrėti	VERB	_	Number=Sing|Mood=Ind|Tense=Fut|Person=2	_	_	_	V=fut,2p,sg,indic
+56	ar	ar	SCONJ	_	_	_	_	_	CONJ=
+57	praklausysi	praklausyti	VERB	_	Number=Sing|Mood=Ind|Tense=Fut|Person=2	_	_	_	V=fut,2p,sg,indic
+58	,	,	PUNCT	_	_	_	_	_	_
+59	ne	ne	SCONJ	_	_	_	_	_	CONJ=
+60	,	,	PUNCT	_	_	_	_	_	_
+61	kada	kada	ADV	_	_	_	_	_	ADV=
+62	jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+63	pasirodys	pasirodyti	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Fut|Person=3	_	_	_	V,refl=fut,3p,sg,indic
+64	,	,	PUNCT	_	_	_	_	_	_
+65	–	–	SYM	_	_	_	_	_	_
+66	o	o	SCONJ	_	_	_	_	_	CONJ=
+67	būtinai	būtinai	ADV	_	_	_	_	_	ADV=
+68	pasirodys	pasirodyti	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Fut|Person=3	_	_	_	V,refl=fut,3p,sg,indic
+69	,	,	PUNCT	_	_	_	_	_	_
+70	–	–	SYM	_	_	_	_	_	_
+71	iškart	iškart	ADV	_	_	_	_	_	ADV=
+72	jį	jis	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+73	pažinsi	pažinti	VERB	_	Number=Sing|Mood=Ind|Tense=Fut|Person=2	_	_	_	V=fut,2p,sg,indic
+74	,	,	PUNCT	_	_	_	_	_	_
+75	jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+76	prabils	prabilti	VERB	_	Number=Sing|Mood=Ind|Tense=Fut|Person=3	_	_	_	V=fut,3p,sg,indic
+77	į	į	ADP	_	_	_	_	_	PR=
+78	tave	tu	PRON	_	Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=sg,acc,indef
+79	garsiu	garsus	ADJ	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	A=m,sg,ins,indef
+80	balsu	balsas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+81	,	,	PUNCT	_	_	_	_	_	_
+82	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+83	jau	jau	ADV	_	_	_	_	_	ADV=
+84	viską	viskas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+85	žinosi	žinoti	VERB	_	Number=Sing|Mood=Ind|Tense=Fut|Person=2	_	_	_	V=fut,2p,sg,indic
+86	,	,	PUNCT	_	_	_	_	_	_
+87	neišsiginsi	sigintis	VERB	_	Number=Sing|Polarity=Neg|Reflex=Yes|Mood=Ind|Tense=Fut|Person=2	_	_	_	V,refl=fut,2p,sg,neg,indic
+88	jo	jis	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+89	nesupratęs	suprasti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Polarity=Neg|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,neg,indef,voc
+90	;	;	SYM	_	_	_	_	_	_
+91	pasirink	pasirinkti	VERB	_	Number=Sing|Reflex=Yes|Mood=Imp|Person=2	_	_	_	V,refl=2p,sg,imper
+92	šventą	šventas	ADJ	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=f,sg,acc,indef
+93	vietą	vieta	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+94	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+95	lauk	lauk	ADV	_	_	_	_	_	ADV=
+96	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 61
+# text = Vytautas Berankis taip ir elgėsi: klajojo Vilniaus gatvėmis (juk Vilnius – irgi niūri šventykla), žiūrėjo į senus stogų atbrailų lipdinius, traukė benzinu prakaituojančio miesto kvapą, vogčia klausėsi praeivių pokalbių, niekur neskubėjo, žinojo, kad ir pats lemtingasis ženklas ieško jo, ieško lygiai atkakliai, kad jie neišvengiamai susidurs.
+1	Vytautas	Vytautas	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+2	Berankis	Berankis	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+3	taip	taip	ADV	_	_	_	_	_	ADV=
+4	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+5	elgėsi	elgtis	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+6	:	:	SYM	_	_	_	_	_	_
+7	klajojo	klajoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+8	Vilniaus	Vilnius	PROPN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S, propn,m=sg,gen
+9	gatvėmis	gatvė	NOUN	_	Gender=Fem|Number=Plur|Case=Ins	_	_	_	S,f=pl,ins
+10	(	(	PUNCT	_	_	_	_	_	_
+11	juk	juk	PART	_	_	_	_	_	PART=
+12	Vilnius	Vilnius	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+13	–	–	SYM	_	_	_	_	_	_
+14	irgi	irgi	ADV	_	_	_	_	_	ADV=
+15	niūri	niūrus	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+16	šventykla	šventykla	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+17	),	),	PUNCT	_	_	_	_	_	_
+18	žiūrėjo	žiūrėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+19	į	į	ADP	_	_	_	_	_	PR=
+20	senus	senas	ADJ	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	A=m,pl,acc,indef
+21	stogų	stogas	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+22	atbrailų	atbraila	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+23	lipdinius	lipdinys	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+24	,	,	PUNCT	_	_	_	_	_	_
+25	traukė	traukyti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+26	benzinu	benzinas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+27	prakaituojančio	prakaituoti	VERB	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,m,act,indef,gen
+28	miesto	miestas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+29	kvapą	kvapas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+30	,	,	PUNCT	_	_	_	_	_	_
+31	vogčia	vogčia	ADV	_	_	_	_	_	ADV=
+32	klausėsi	klausytis	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+33	praeivių	praeivis	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+34	pokalbių	pokalbis	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+35	,	,	PUNCT	_	_	_	_	_	_
+36	niekur	niekur	ADV	_	_	_	_	_	ADV=
+37	neskubėjo	skubėti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+38	,	,	PUNCT	_	_	_	_	_	_
+39	žinojo	žinoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+40	,	,	PUNCT	_	_	_	_	_	_
+41	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+42	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+43	pats	pats	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+44	lemtingasis	lemtingas	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Def	_	_	_	A=m,sg,nom,def
+45	ženklas	ženklas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+46	ieško	ieškoti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+47	jo	jis	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+48	,	,	PUNCT	_	_	_	_	_	_
+49	ieško	ieškoti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+50	lygiai	lygiai	ADV	_	_	_	_	_	ADV=
+51	atkakliai	atkakliai	ADV	_	_	_	_	_	ADV=
+52	,	,	PUNCT	_	_	_	_	_	_
+53	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+54	jie	jis	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+55	neišvengiamai	neišvengiamas	ADJ	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind	_	_	_	A=f,sg,dat,indef
+56	susidurs	susidurti	VERB	_	Number=Plur|Reflex=Yes|Mood=Ind|Tense=Fut|Person=3	_	_	_	V,refl=fut,3p,pl,indic
+57	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 62
+# text = Rado tą knygutę kietais viršeliais apirusioje bromoje, pavartė, virpančia ranka įsikišo į kišenę ir ūmai panūdo bėgti nuo savęs, pasislėpti gūdžioje girioje, pasikasti po žeme, sudeginti tą knygelę, nes jau žinojo, kad kaip tik ji ir yra tasai burtas, žinojo tvirtai, kaip anuomet, tarp spygliuotų vielų, kai pakėlė nuo drėgnos žemės rinkę dešros, tikrų tikriausios kvepiančios dešros, lietuviškos dešros, – jis nedvejodamas pažino sielą gildantį namų kvapą, apsidairė (tuomet, zonoje, ir dabar, prie apirusios bromos) ir šlykščiai prakeikė savo likimą, jausdamas, kad bet kokia laisvė spręsti ir rinktis kelią dingo, kad dabar jį veda toji kvapnios dešros rinkė (toji knygelė kiek padrėkusiais kietais viršeliais), veda į nežinią, į prapultį, o gal ir į nebūtį.
+1	Rado	radas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+2	tą	tas	PRON	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=f,sg,acc,indef
+3	knygutę	knygutė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+4	kietais	kietas	ADJ	_	Gender=Masc|Number=Plur|Case=Ins|Definite=Ind	_	_	_	A=m,pl,ins,indef
+5	viršeliais	viršelis	NOUN	_	Gender=Masc|Number=Plur|Case=Ins	_	_	_	S,m=pl,ins
+6	apirusioje	apirti	VERB	_	Gender=Fem|Number=Sing|Case=Loc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,f,act,indef,loc
+7	bromoje	bromoje	_	_	_	_	_	_	=
+8	,	,	PUNCT	_	_	_	_	_	_
+9	pavartė	pavartė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+10	,	,	PUNCT	_	_	_	_	_	_
+11	virpančia	virpėti	VERB	_	Gender=Fem|Number=Sing|Case=Ins|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,f,act,indef,ins
+12	ranka	ranka	NOUN	_	Gender=Fem|Number=Sing|Case=Ins	_	_	_	S,f=sg,ins
+13	įsikišo	įsikišti	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+14	į	į	ADP	_	_	_	_	_	PR=
+15	kišenę	kišenė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+16	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+17	ūmai	ūmai	ADV	_	_	_	_	_	ADV=
+18	panūdo	panūsti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+19	bėgti	bėgti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+20	nuo	nuo	ADP	_	_	_	_	_	PR=
+21	savęs	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+22	,	,	PUNCT	_	_	_	_	_	_
+23	pasislėpti	pasislėpti	VERB	_	Reflex=Yes|VerbForm=Inf	_	_	_	V,refl=inf
+24	gūdžioje	gūdus	ADJ	_	Gender=Fem|Number=Sing|Case=Loc|Definite=Ind	_	_	_	A=f,sg,loc,indef
+25	girioje	giria	NOUN	_	Gender=Fem|Number=Sing|Case=Loc	_	_	_	S,f=sg,loc
+26	,	,	PUNCT	_	_	_	_	_	_
+27	pasikasti	pasikasti	VERB	_	Reflex=Yes|VerbForm=Inf	_	_	_	V,refl=inf
+28	po	po	ADP	_	_	_	_	_	PR=
+29	žeme	žemė	NOUN	_	Gender=Fem|Number=Sing|Case=Ins	_	_	_	S,f=sg,ins
+30	,	,	PUNCT	_	_	_	_	_	_
+31	sudeginti	sudeginti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+32	tą	tas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+33	knygelę	knygelė	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+34	,	,	PUNCT	_	_	_	_	_	_
+35	nes	nes	SCONJ	_	_	_	_	_	CONJ=
+36	jau	jau	ADV	_	_	_	_	_	ADV=
+37	žinojo	žinoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+38	,	,	PUNCT	_	_	_	_	_	_
+39	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+40	kaip	kaip	ADV	_	_	_	_	_	ADV=
+41	tik	tik	ADV	_	_	_	_	_	ADV=
+42	ji	jis	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=f,sg,nom,indef
+43	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+44	yra	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+45	tasai	tas	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Def	_	_	_	PRO=m,sg,nom,def
+46	burtas	burtas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+47	,	,	PUNCT	_	_	_	_	_	_
+48	žinojo	žinoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+49	tvirtai	tvirtai	ADV	_	_	_	_	_	ADV=
+50	,	,	PUNCT	_	_	_	_	_	_
+51	kaip	kaip	SCONJ	_	_	_	_	_	CONJ=
+52	anuomet	anuomet	ADV	_	_	_	_	_	ADV=
+53	,	,	PUNCT	_	_	_	_	_	_
+54	tarp	tarp	ADP	_	_	_	_	_	PR=
+55	spygliuotų	spygliuotas	ADJ	_	Gender=Fem|Number=Plur|Case=Gen|Definite=Ind	_	_	_	A=f,pl,gen,indef
+56	vielų	viela	NOUN	_	Gender=Fem|Number=Plur|Case=Gen	_	_	_	S,f=pl,gen
+57	,	,	PUNCT	_	_	_	_	_	_
+58	kai	kai	SCONJ	_	_	_	_	_	CONJ=
+59	pakėlė	pakelti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+60	nuo	nuo	ADP	_	_	_	_	_	PR=
+61	drėgnos	drėgnas	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=f,sg,gen,indef
+62	žemės	žemė	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+63	rinkę	rinkti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+64	dešros	dešra	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+65	,	,	PUNCT	_	_	_	_	_	_
+66	tikrų	tikras	ADJ	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	A=m,pl,gen,indef
+67	tikriausios	tikras	ADJ	_	Gender=Fem|Number=Plur|Case=Nom|Definite=Ind|Degree=Sup	_	_	_	A=super,f,pl,nom,indef
+68	kvepiančios	kvepėti	VERB	_	Gender=Fem|Number=Plur|Case=Nom|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,pl,f,act,indef,nom
+69	dešros	dešra	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+70	,	,	PUNCT	_	_	_	_	_	_
+71	lietuviškos	lietuviškas	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=f,sg,gen,indef
+72	dešros	dešra	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+73	,	,	PUNCT	_	_	_	_	_	_
+74	–	–	SYM	_	_	_	_	_	_
+75	jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+76	nedvejodamas	dvejoti	VERB	_	Gender=Masc|Number=Sing|Polarity=Neg|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,sg,m,neg
+77	pažino	pažinti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+78	sielą	siela	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+79	gildantį	gildyti	VERB	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,m,act,indef,acc
+80	namų	namai	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+81	kvapą	kvapas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+82	,	,	PUNCT	_	_	_	_	_	_
+83	apsidairė	apsidairyti	VERB	_	Number=Sing|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,indic
+84	(	(	PUNCT	_	_	_	_	_	_
+85	tuomet	tuomet	ADV	_	_	_	_	_	ADV=
+86	,	,	PUNCT	_	_	_	_	_	_
+87	zonoje	zona	NOUN	_	Gender=Fem|Number=Sing|Case=Loc	_	_	_	S,f=sg,loc
+88	,	,	PUNCT	_	_	_	_	_	_
+89	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+90	dabar	dabar	ADV	_	_	_	_	_	ADV=
+91	,	,	PUNCT	_	_	_	_	_	_
+92	prie	prie	ADP	_	_	_	_	_	PR=
+93	apirusios	apirti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,act,indef,voc
+94	bromos	bromos	_	_	_	_	_	_	=
+95	)	)	PUNCT	_	_	_	_	_	_
+96	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+97	šlykščiai	šlykščiai	ADV	_	_	_	_	_	ADV=
+98	prakeikė	prakeikti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+99	savo	savęs	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+100	likimą	likimas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+101	,	,	PUNCT	_	_	_	_	_	_
+102	jausdamas	jausti	VERB	_	Gender=Masc|Number=Sing|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,sg,m
+103	,	,	PUNCT	_	_	_	_	_	_
+104	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+105	bet kokia	bet koks	PRON	_	Gender=Fem|Number=Sing|Case=Ins|Definite=Ind	_	_	_	PRO=f,sg,ins,indef
+106	laisvė	laisvė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+107	spręsti	spręsti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+108	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+109	rinktis	rinktis	VERB	_	Reflex=Yes|VerbForm=Inf	_	_	_	V,refl=inf
+110	kelią	kelias	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+111	dingo	dingas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+112	,	,	PUNCT	_	_	_	_	_	_
+113	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+114	dabar	dabar	ADV	_	_	_	_	_	ADV=
+115	jį	jis	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+116	veda	vesti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+117	toji	tas	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Def	_	_	_	PRO=f,sg,nom,def
+118	kvapnios	kvapnus	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=f,sg,gen,indef
+119	dešros	dešra	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+120	rinkė	rinkė	_	_	_	_	_	_	=
+121	(	(	PUNCT	_	_	_	_	_	_
+122	toji	tas	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Def	_	_	_	PRO=f,sg,nom,def
+123	knygelė	knygelė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+124	kiek	kiek	ADV	_	_	_	_	_	ADV=
+125	padrėkusiais	padrėkusiais	_	_	_	_	_	_	=
+126	kietais	kietas	ADJ	_	Gender=Masc|Number=Plur|Case=Ins|Definite=Ind	_	_	_	A=m,pl,ins,indef
+127	viršeliais	viršelis	NOUN	_	Gender=Masc|Number=Plur|Case=Ins	_	_	_	S,m=pl,ins
+128	),	),	PUNCT	_	_	_	_	_	_
+129	veda	vesti	VERB	_	Number=Sing|Mood=Ind|Tense=Pres|Person=3	_	_	_	V=praes,3p,sg,indic
+130	į	į	ADP	_	_	_	_	_	PR=
+131	nežinią	nežinia	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+132	,	,	PUNCT	_	_	_	_	_	_
+133	į	į	ADP	_	_	_	_	_	PR=
+134	prapultį	prapultis	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+135	,	,	PUNCT	_	_	_	_	_	_
+136	o	o	SCONJ	_	_	_	_	_	CONJ=
+137	gal	gal	PART	_	_	_	_	_	PART=
+138	ir	ir	PART	_	_	_	_	_	PART=
+139	į	į	ADP	_	_	_	_	_	PR=
+140	nebūtį	nebūtis	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+141	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 63
+# text = Jo likimą visad lėmė keisčiausi arba pribloškiančiai banalūs daiktai.
+1	Jo	jis	PRON	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=m,sg,gen,indef
+2	likimą	likimas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+3	visad	visad	ADV	_	_	_	_	_	ADV=
+4	lėmė	lemti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+5	keisčiausi	keistas	ADJ	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind|Degree=Sup	_	_	_	A=super,m,pl,nom,indef
+6	arba	arba	SCONJ	_	_	_	_	_	CONJ=
+7	pribloškiančiai	priblokšti	VERB	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind|Voice=Act|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,f,act,indef,dat
+8	banalūs	banalus	ADJ	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	A=m,pl,nom,indef
+9	daiktai	daiktas	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+10	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 64
+# text = Tame krašte žiema trukdavo aštuonis mėnesius, tačiau upė net pačiam giliažiemy ligi galo neužšaldavo.
+1	Tame	tas	PRON	_	Gender=Masc|Number=Sing|Case=Loc|Definite=Ind	_	_	_	PRO=m,sg,loc,indef
+2	krašte	kraštas	NOUN	_	Gender=Masc|Number=Sing|Case=Loc	_	_	_	S,m=sg,loc
+3	žiema	žiema	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+4	trukdavo	trukti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+5	aštuonis	aštuoni	NUM	_	Gender=Masc|Case=Acc|NumType=Card	_	_	_	NUM=card,m,acc
+6	mėnesius	mėnuo	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+7	,	,	PUNCT	_	_	_	_	_	_
+8	tačiau	tačiau	SCONJ	_	_	_	_	_	CONJ=
+9	upė	upė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+10	net	net	PART	_	_	_	_	_	PART=
+11	pačiam	pats	PRON	_	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=m,sg,dat,indef
+12	giliažiemy	giliažiemy	_	_	_	_	_	_	=
+13	ligi	ligi	ADP	_	_	_	_	_	PR=
+14	galo	galas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+15	neužšaldavo	užšalti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,neg,indic
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 65
+# text = Jos tėkmė nelyginant gyva turėjo alsuoti oru ir regėti pasaulį.
+1	Jos	jis	PRON	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=f,sg,gen,indef
+2	tėkmė	tėkmė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+3	nelyginant	nelyginant	SCONJ	_	_	_	_	_	CONJ=
+4	gyva	gyvas	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+5	turėjo	turėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+6	alsuoti	alsuoti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+7	oru	oras	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+8	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+9	regėti	regėti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+10	pasaulį	pasaulis	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 66
+# text = Ji nepasidavė jokiems speigams, buvo nenugalima tarsi bendra visų prie jos įkurdintų žmonių gyvenimo tėkmė.
+1	Ji	jis	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=f,sg,nom,indef
+2	nepasidavė	siduotis	VERB	_	Number=Sing|Polarity=Neg|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,sg,neg,indic
+3	jokiems	joks	PRON	_	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind	_	_	_	PRO=m,pl,dat,indef
+4	speigams	speigas	NOUN	_	Gender=Masc|Number=Plur|Case=Dat	_	_	_	S,m=pl,dat
+5	,	,	PUNCT	_	_	_	_	_	_
+6	buvo	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+7	nenugalima	nugalėti	VERB	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind|Polarity=Neg|Voice=Pass|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,f,pass,neg,indef,nom
+8	tarsi	tarsi	ADV	_	_	_	_	_	ADV=
+9	bendra	bendras	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+10	visų	visas	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+11	prie	prie	ADP	_	_	_	_	_	PR=
+12	jos	jis	PRON	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=f,sg,gen,indef
+13	įkurdintų	įkurdinti	VERB	_	Number=Sing|Mood=Cnd|Person=3	_	_	_	V=3p,sg,cond
+14	žmonių	žmogus	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+15	gyvenimo	gyvenimas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+16	tėkmė	tėkmė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+17	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 67
+# text = Galėjo pražūti dešimtys, šimtai, tūkstančiai.
+1	Galėjo	galėti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+2	pražūti	pražūti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+3	dešimtys	dešimt	NUM	_	Gender=Fem|Number=Plur|Case=Nom|NumType=Card	_	_	_	NUM=card,f,pl,nom
+4	,	,	PUNCT	_	_	_	_	_	_
+5	šimtai	šimtas	NUM	_	Gender=Masc|Number=Plur|Case=Nom|NumType=Card	_	_	_	NUM=card,m,pl,nom
+6	,	,	PUNCT	_	_	_	_	_	_
+7	tūkstančiai	tūkstantis	NUM	_	Gender=Masc|Number=Plur|Case=Nom|NumType=Card	_	_	_	NUM=card,m,pl,nom
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 68
+# text = Tačiau jokia jėga negalėjo prapuldyti visų ligi vieno.
+1	Tačiau	tačiau	SCONJ	_	_	_	_	_	CONJ=
+2	jokia	joks	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=f,sg,nom,indef
+3	jėga	jėga	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+4	negalėjo	galėti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+5	prapuldyti	prapuldyti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+6	visų	visas	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+7	ligi	ligi	ADP	_	_	_	_	_	PR=
+8	vieno	vienas	NUM	_	Gender=Masc|Number=Sing|Case=Gen|NumType=Card	_	_	_	NUM=card,m,sg,gen
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 69
+# text = Prie apleistos kirtimvietės atvežė juos dvidešimt šešis.
+1	Prie	prie	ADP	_	_	_	_	_	PR=
+2	apleistos	apleisti	VERB	_	Gender=Fem|Number=Plur|Case=Voc|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,pl,f,pass,indef,voc
+3	kirtimvietės	kirtimvietės	_	_	_	_	_	_	=
+4	atvežė	atvežti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+5	juos	jis	PRON	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=m,pl,acc,indef
+6	dvidešimt	dvidešimt	NUM	_	NumType=Card	_	_	_	NUM=card
+7	šešis	šeši	NUM	_	Gender=Masc|Case=Acc|NumType=Card	_	_	_	NUM=card,m,acc
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 70
+# text = Turėjo būti dvidešimt penki, bet paskutiniu momentu zonos viršininkas stumtelėjo prie kitų ir Vytautą Berankį.
+1	Turėjo	turėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+2	būti	būti	VERB	_	VerbForm=Inf	_	_	_	V=inf
+3	dvidešimt	dvidešimt	NUM	_	NumType=Card	_	_	_	NUM=card
+4	penki	penki	NUM	_	Gender=Masc|Case=Nom|NumType=Card	_	_	_	NUM=card,m,nom
+5	,	,	PUNCT	_	_	_	_	_	_
+6	bet	bet	SCONJ	_	_	_	_	_	CONJ=
+7	paskutiniu	paskutinis	ADJ	_	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind	_	_	_	A=m,sg,ins,indef
+8	momentu	momentas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+9	zonos	zona	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+10	viršininkas	viršininkas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+11	stumtelėjo	stumtelti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+12	prie	prie	ADP	_	_	_	_	_	PR=
+13	kitų	kitas	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+14	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+15	Vytautą	Vytautas	PROPN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S, propn,m=sg,acc
+16	Berankį	Berankis	PROPN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S, propn,m=sg,acc
+17	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 71
+# text = (– Kvapas tave išdavė, berneli, – pasakė kone draugiškai. – Vagišius susmirdęs.
+1	(–	(–	SYM	_	_	_	_	_	_
+2	Kvapas	kvapas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+3	tave	tu	PRON	_	Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=sg,acc,indef
+4	išdavė	išduoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+5	,	,	PUNCT	_	_	_	_	_	_
+6	berneli	bernelis	NOUN	_	Gender=Masc|Number=Sing|Case=Voc	_	_	_	S,m=sg,voc
+7	,	,	PUNCT	_	_	_	_	_	_
+8	–	–	SYM	_	_	_	_	_	_
+9	pasakė	pasakyti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+10	kone	kone	ADV	_	_	_	_	_	ADV=
+11	draugiškai	draugiškai	ADV	_	_	_	_	_	ADV=
+12	.	.	PUNCT	_	_	_	_	_	_
+13	–	–	SYM	_	_	_	_	_	_
+14	Vagišius	vagišius	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+15	susmirdęs	susmirsti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,voc
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 72
+# text = Berankis tebejautė burnoje aitrų česnako ir mairūno skonį, kadagio dūmo kvapą, namų skonį ir kvapą, kai zonos viršininkas slinko palei gretą, tarsi šuo uosdamas kiekvieną.
+1	Berankis	berankis	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+2	tebejautė	jausti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+3	burnoje	burna	NOUN	_	Gender=Fem|Number=Sing|Case=Loc	_	_	_	S,f=sg,loc
+4	aitrų	aitrus	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+5	česnako	česnakas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+6	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+7	mairūno	mairūnas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+8	skonį	skonis	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+9	,	,	PUNCT	_	_	_	_	_	_
+10	kadagio	kadagys	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+11	dūmo	dūmas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+12	kvapą	kvapas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+13	,	,	PUNCT	_	_	_	_	_	_
+14	namų	namai	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+15	skonį	skonis	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+16	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+17	kvapą	kvapas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+18	,	,	PUNCT	_	_	_	_	_	_
+19	kai	kai	SCONJ	_	_	_	_	_	CONJ=
+20	zonos	zona	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+21	viršininkas	viršininkas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+22	slinko	slinkti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+23	palei	palei	ADP	_	_	_	_	_	PR=
+24	gretą	greta	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+25	,	,	PUNCT	_	_	_	_	_	_
+26	tarsi	tarsi	ADV	_	_	_	_	_	ADV=
+27	šuo	šuo	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+28	uosdamas	uosti	VERB	_	Gender=Masc|Number=Sing|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,sg,m
+29	kiekvieną	kiekvienas	PRON	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	PRO=m,sg,acc,indef
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 73
+# text = Jis neturėjo nieko šuniško, povyza jis priminė pavargusį istorijos ar geografijos mokytoją.
+1	Jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+2	neturėjo	turėti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+3	nieko	niekas	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+4	šuniško	šuniškas	ADJ	_	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=m,sg,gen,indef
+5	,	,	PUNCT	_	_	_	_	_	_
+6	povyza	povyza	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+7	jis	jis	PRON	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=m,sg,nom,indef
+8	priminė	priminti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+9	pavargusį	pavargti	VERB	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,acc
+10	istorijos	istorija	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+11	ar	ar	SCONJ	_	_	_	_	_	CONJ=
+12	geografijos	geografija	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+13	mokytoją	mokytojas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+14	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 74
+# text = Tačiau artėjo prie Berankio kaip mirtis, kaip giltinė, vietoj dalgio rankoj suspaudęs dailų poliruotą steką.)
+1	Tačiau	tačiau	SCONJ	_	_	_	_	_	CONJ=
+2	artėjo	artėti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+3	prie	prie	ADP	_	_	_	_	_	PR=
+4	Berankio	berankis	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+5	kaip	kaip	SCONJ	_	_	_	_	_	CONJ=
+6	mirtis	mirtis	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+7	,	,	PUNCT	_	_	_	_	_	_
+8	kaip	kaip	SCONJ	_	_	_	_	_	CONJ=
+9	giltinė	giltinė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+10	,	,	PUNCT	_	_	_	_	_	_
+11	vietoj	vietoj	ADV	_	_	_	_	_	ADV=
+12	dalgio	dalgis	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+13	rankoj	ranka	NOUN	_	Gender=Fem|Number=Sing|Case=Loc	_	_	_	S,f=sg,loc
+14	suspaudęs	suspaudyti	VERB	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,nom
+15	dailų	dailus	ADJ	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind	_	_	_	A=m,sg,acc,indef
+16	poliruotą	poliruoti	VERB	_	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,f,pass,indef,acc
+17	steką	steką	_	_	_	_	_	_	=
+18	.)	.)	PUNCT	_	_	_	_	_	_
+
+# sent_id = 75
+# text = Sargybiniai balsu keikėsi, klampodami tuos porą trejetą kilometrų nuo perrūdijusios siauruko bėgių atšakos.
+1	Sargybiniai	sargybinis	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+2	balsu	balsas	NOUN	_	Gender=Masc|Number=Sing|Case=Ins	_	_	_	S,m=sg,ins
+3	keikėsi	keiktis	VERB	_	Number=Plur|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,pl,indic
+4	,	,	PUNCT	_	_	_	_	_	_
+5	klampodami	klampoti	VERB	_	Gender=Masc|Number=Plur|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,pl,m
+6	tuos	tas	PRON	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=m,pl,acc,indef
+7	porą	pora	NOUN	_	Gender=Fem|Number=Sing|Case=Acc	_	_	_	S,f=sg,acc
+8	trejetą	trejetas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+9	kilometrų	kilometras	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+10	nuo	nuo	ADP	_	_	_	_	_	PR=
+11	perrūdijusios	perrūdijusios	_	_	_	_	_	_	=
+12	siauruko	siaurukas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+13	bėgių	bėgis	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+14	atšakos	atšaka	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+15	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 76
+# text = Čia niekas nekirto miško turbūt jau keletą metų.
+1	Čia	čia	ADV	_	_	_	_	_	ADV=
+2	niekas	niekas	PRON	_	Case=Nom|Definite=Ind	_	_	_	PRO=nom,indef
+3	nekirto	kirsti	VERB	_	Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,neg,indic
+4	miško	miškas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+5	turbūt	turbūt	PART	_	_	_	_	_	PART=
+6	jau	jau	ADV	_	_	_	_	_	ADV=
+7	keletą	keletas	PRON	_	Case=Acc|Definite=Ind	_	_	_	PRO=acc,indef
+8	metų	metai	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 77
+# text = Vyrai vilkosi vorele tylėdami, tik Aleksys vos išlipęs burbtelėjo:
+1	Vyrai	vyras	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+2	vilkosi	vilktis	VERB	_	Number=Plur|Reflex=Yes|Mood=Ind|Tense=Past|Person=3	_	_	_	V,refl=praet,3p,pl,indic
+3	vorele	vorelė	NOUN	_	Gender=Fem|Number=Sing|Case=Ins	_	_	_	S,f=sg,ins
+4	tylėdami	tylėti	VERB	_	Gender=Masc|Number=Plur|VerbForm=part|Aspect=Conv	_	_	_	V=partcp,ger,ssubj,pl,m
+5	,	,	PUNCT	_	_	_	_	_	_
+6	tik	tik	ADV	_	_	_	_	_	ADV=
+7	Aleksys	Aleksys	PROPN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S, propn,m=sg,nom
+8	vos	vos	PART	_	_	_	_	_	PART=
+9	išlipęs	išlipti	VERB	_	Gender=Masc|Number=Sing|Case=Voc|Definite=Ind|Voice=Act|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,sg,m,act,indef,voc
+10	burbtelėjo	burbtelti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+11	:	:	SYM	_	_	_	_	_	_
+
+# sent_id = 78
+# text = – Ta dešra buvo mano.
+1	–	–	SYM	_	_	_	_	_	_
+2	Ta	tas	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=f,sg,nom,indef
+3	dešra	dešra	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+4	buvo	būti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+5	mano	aš	PRON	_	Number=Sing|Case=Gen|Definite=Ind	_	_	_	PRO=sg,gen,indef
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 79
+# text = Elenytė tik ištremta, ji man perdavė.
+1	Elenytė	Elenytė	PROPN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S, propn,f=sg,nom
+2	tik	tik	ADV	_	_	_	_	_	ADV=
+3	ištremta	ištremti	VERB	_	Gender=Neut|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Past	_	_	_	V=partcp,praet,n,pass,indef
+4	,	,	PUNCT	_	_	_	_	_	_
+5	ji	jis	PRON	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	PRO=f,sg,nom,indef
+6	man	aš	PRON	_	Number=Sing|Case=Dat|Definite=Ind	_	_	_	PRO=sg,dat,indef
+7	perdavė	perduoti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,indic
+8	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 80
+# text = O tieji nugvelbė kaip visada.
+1	O	o	SCONJ	_	_	_	_	_	CONJ=
+2	tieji	tas	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Def	_	_	_	PRO=m,pl,nom,def
+3	nugvelbė	nugvelbti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+4	kaip	kaip	SCONJ	_	_	_	_	_	CONJ=
+5	visada	visada	ADV	_	_	_	_	_	ADV=
+6	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 81
+# text = Ar skani?
+1	Ar	ar	SCONJ	_	_	_	_	_	CONJ=
+2	skani	skanus	ADJ	_	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=f,sg,nom,indef
+3	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = 82
+# text = Sniegas čia visai negurgždėjo, žmonių balsai bemat sušaldavo į ledą ir be garso krisdavo į pusnynus.
+1	Sniegas	sniegas	NOUN	_	Gender=Masc|Number=Sing|Case=Nom	_	_	_	S,m=sg,nom
+2	čia	čia	ADV	_	_	_	_	_	ADV=
+3	visai	visai	ADV	_	_	_	_	_	ADV=
+4	negurgždėjo	gurgždėti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,sg,neg,indic
+5	,	,	PUNCT	_	_	_	_	_	_
+6	žmonių	žmogus	NOUN	_	Gender=Masc|Number=Plur|Case=Gen	_	_	_	S,m=pl,gen
+7	balsai	balsas	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+8	bemat	bemat	ADV	_	_	_	_	_	ADV=
+9	sušaldavo	sušalti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,pl,indic
+10	į	į	ADP	_	_	_	_	_	PR=
+11	ledą	ledas	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+12	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+13	be	be	ADP	_	_	_	_	_	PR=
+14	garso	garsas	NOUN	_	Gender=Masc|Number=Sing|Case=Gen	_	_	_	S,m=sg,gen
+15	krisdavo	kristi	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,pl,indic
+16	į	į	ADP	_	_	_	_	_	PR=
+17	pusnynus	pusnynas	NOUN	_	Gender=Masc|Number=Plur|Case=Acc	_	_	_	S,m=pl,acc
+18	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 83
+# text = Medžiai aplink stūksojo tokie, kokių nė nesusapnuosi, turbūt dažnas skaičiavo nebe pirmą šimtmetį.
+1	Medžiai	medis	NOUN	_	Gender=Masc|Number=Plur|Case=Nom	_	_	_	S,m=pl,nom
+2	aplink	aplink	ADV	_	_	_	_	_	ADV=
+3	stūksojo	stūksoti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+4	tokie	toks	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+5	,	,	PUNCT	_	_	_	_	_	_
+6	kokių	koks	PRON	_	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind	_	_	_	PRO=m,pl,gen,indef
+7	nė	nė	PART	_	_	_	_	_	PART=
+8	nesusapnuosi	susapnuoti	VERB	_	Number=Sing|Polarity=Neg|Mood=Ind|Tense=Fut|Person=2	_	_	_	V=fut,2p,sg,neg,indic
+9	,	,	PUNCT	_	_	_	_	_	_
+10	turbūt	turbūt	PART	_	_	_	_	_	PART=
+11	dažnas	dažnas	ADJ	_	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind	_	_	_	A=m,sg,nom,indef
+12	skaičiavo	skaičiuoti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+13	nebe	nebe	PART	_	_	_	_	_	PART=
+14	pirmą	pirmas	NUM	_	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind|NumType=Ord	_	_	_	NUM,ord=m,sg,acc,indef
+15	šimtmetį	šimtmetis	NOUN	_	Gender=Masc|Number=Sing|Case=Acc	_	_	_	S,m=sg,acc
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 84
+# text = Jie buvo gildomai gražūs ir sykiu niūrūs – tarsi baisioj pasakoj be laimingos pabaigos.
+1	Jie	jis	PRON	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	PRO=m,pl,nom,indef
+2	buvo	būti	VERB	_	Number=Plur|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,3p,pl,indic
+3	gildomai	gildyti	VERB	_	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind|Voice=Pass|VerbForm=part|Tense=Pres	_	_	_	V=partcp,praes,sg,f,pass,indef,dat
+4	gražūs	gražus	ADJ	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	A=m,pl,nom,indef
+5	ir	ir	SCONJ	_	_	_	_	_	CONJ=
+6	sykiu	sykiu	ADV	_	_	_	_	_	ADV=
+7	niūrūs	niūrus	ADJ	_	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind	_	_	_	A=m,pl,nom,indef
+8	–	–	SYM	_	_	_	_	_	_
+9	tarsi	tarsi	ADV	_	_	_	_	_	ADV=
+10	baisioj	baisus	ADJ	_	Gender=Fem|Number=Sing|Case=Loc|Definite=Ind	_	_	_	A=f,sg,loc,indef
+11	pasakoj	pasaka	NOUN	_	Gender=Fem|Number=Sing|Case=Loc	_	_	_	S,f=sg,loc
+12	be	be	ADP	_	_	_	_	_	PR=
+13	laimingos	laimingas	ADJ	_	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind	_	_	_	A=f,sg,gen,indef
+14	pabaigos	pabaiga	NOUN	_	Gender=Fem|Number=Sing|Case=Gen	_	_	_	S,f=sg,gen
+15	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 85
+# text = Regint juos apimdavo baimė, kad daugiau nieko pasaulyje ir nebėra, kad visą žemę užgožė tie rūstūs ir besieliai medžiai. (Jie yra besieliai, vėliau šaukė Bronys. Sielą turi ąžuolas, gali turėt uosis, net drebulė – tik ne šitie pamėkliški milžinai.)
+1	Regint	regėti	VERB	_	VerbForm=part|Aspect=Conv|Tense=Pres	_	_	_	V=partcp,ger,dsubj,praes
+2	juos	jis	PRON	_	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind	_	_	_	PRO=m,pl,acc,indef
+3	apimdavo	apimti	VERB	_	Number=Sing|Mood=Ind|Tense=Past|Person=3	_	_	_	V=praet,hab,3p,sg,indic
+4	baimė	baimė	NOUN	_	Gender=Fem|Number=Sing|Case=Nom	_	_	_	S,f=sg,nom
+5	,	,	PUNCT	_	_	_	_	_	_
+6	kad	kad	SCONJ	_	_	_	_	_	CONJ=
+7	daugiau	daug	ADV	_	Degree=Comp	_	_	_	ADV=comp
+8	nieko	niekas	PRON	_	Case=Gen|Definite=Ind	_	_	_	PRO=gen,indef
+9	pasaulyje	pasaulis	NOUN	_	Gender=Masc|Number=Sing|Case=Loc	_	_	_	S,m=sg,loc
+10	ir	ir	SCONJ	_	_	_	_	_	CONJ=
